@@ -1,0 +1,6 @@
+# Exact commands transcribed from the original author-supplied terminal screenshots.
+# Object command: execute in the object dataset directory containing data.yaml.
+yolo detect train data=data.yaml model=yolo11l.pt epochs=1000 patience=200 freeze=20 cos_lr=True
+
+# Behavior command: execute in the behavior dataset directory containing data.yaml.
+yolo detect train model=yolo11l.pt data=data.yaml epochs=1200 patience=300 freeze=20 cos_lr=True

@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-03",
+  "scope": "Exploratory presence-state diagnostic on ten identical images held in both recovered test partitions, excluding exact-byte appearances in either recovered train/validation. Source/recording independence is not established. Not joint event accuracy, not false alarms per camera-hour, and not a sufficiently sized comparative validation.",
+  "settings": "Recovered sequential pipeline: direct 640x640 resize; model predict conf=.25, IoU=.7; retain conf>=.5; class-agnostic extra object NMS IoU=.4; FP32. Reference cue presence comes from existing object and behavior annotations, not predictions.",
+  "frames": 10,
+  "reference_state_order": [
+    "No cue",
+    "Behavior cue",
+    "Object cue",
+    "Combined cue"
+  ],
+  "confusion_reference_rows_predicted_columns": [
+    [
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      1,
+      1,
+      2
+    ]
+  ],
+  "state_matches": 6,
+  "reference_states": {
+    "(True, True)": 5,
+    "(False, False)": 3,
+    "(True, False)": 2
+  },
+  "behavior_annotation_presence_binary_tallies": {
+    "object_proxy": {
+      "TP": 3,
+      "FP": 1,
+      "FN": 2,
+      "TN": 4
+    },
+    "behavior_only": {
+      "TP": 3,
+      "FP": 0,
+      "FN": 2,
+      "TN": 5
+    },
+    "OR": {
+      "TP": 4,
+      "FP": 1,
+      "FN": 1,
+      "TN": 4
+    },
+    "AND": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 3,
+      "TN": 5
+    }
+  },
+  "binary_tally_interpretation": "Binary reference is presence of the annotated violent region on these images. Object-only is a proxy, not a ground-truth violence definition. OR and AND reflect cue-presence rules; counts do not imply event correctness or calibrated danger.",
+  "records": [
+    {
+      "sha256": "081ae1bd18e49e9da519d82afe7799ea848fb67934023d5832e89b0f0a63964a",
+      "object_path": "merged_object_detection/test/images/Harmful Object Detection_VID_20250412_155713_frame_0015_jpg.rf.b7b1dfccc9c1c60fd913e16637d0a916.jpg",
+      "behavior_path": "test/images/VID_20250412_155713_frame_0015_jpg.rf.551a35a2c650970605521ecaae3322c6.jpg",
+      "reference_object": true,
+      "reference_behavior": true,
+      "predicted_object": false,
+      "predicted_behavior": false,
+      "object_detections": [],
+      "behavior_detections": []
+    },
+    {
+      "sha256": "0c4985990503fa5d932ad8fe6894149c4622a51166d026d393b7ff08e001eec0",
+      "object_path": "merged_object_detection/test/images/Harmful Object Detection_VID_20250412_160820_frame_0016_jpg.rf.5a129dd4fa511f8b387f617c8538519a.jpg",
+      "behavior_path": "test/images/VID_20250412_160820_frame_0016_jpg.rf.9e35d7878ec205827cc58ddbd5281df0.jpg",
+      "reference_object": true,
+      "reference_behavior": true,
+      "predicted_object": true,
+      "predicted_behavior": true,
+      "object_detections": [
+        [
+          53,
+          417,
+          69,
+          504,
+          9,
+          0.5432407259941101
+        ]
+      ],
+      "behavior_detections": [
+        [
+          274,
+          340,
+          508,
+          637,
+          0,
+          0.5285844206809998
+        ]
+      ]
+    },
+    {
+      "sha256": "2651db0b071058a2b2b4914153fee66e52e4c5c7e36d7ba8b59b7054122794ae",
+      "object_path": "merged_object_detection/test/images/Harmful Object Detection_VID_20250412_162810_frame_0007_jpg.rf.3ca1f64a718a9b30a5374aa837985589.jpg",
+      "behavior_path": "test/images/VID_20250412_162810_frame_0007_jpg.rf.cf2b777ae855ef3c506d1a24f551fac6.jpg",
+      "reference_object": true,
+      "reference_behavior": true,
+      "predicted_object": true,
+      "predicted_behavior": true,
+      "object_detections": [
+        [
+          376,
+          288,
+          515,
+          640,
+          9,
+          0.7296913862228394
+        ]
+      ],
+      "behavior_detections": [
+        [
+          194,
+          20,
+          566,
+          636,
+          0,
+          0.8845842480659485
+        ]
+      ]
+    },
+    {
+      "sha256": "2cf78c1412876719edded230e0aee33d9335f7bdf6770e446b230c01979ff368",
+      "object_path": "merged_object_detection/test/images/Harmful Object Detection_IMG_20250412_165946_462_jpg.rf.66a7b1da65f6a424cf851060a5cba9b2.jpg",
+      "behavior_path": "test/images/IMG_20250412_165946_462_jpg.rf.524d555f2f6891e023d61d86f787ab72.jpg",
+      "reference_object": false,
+      "reference_behavior": false,
+      "predicted_object": false,
+      "predicted_behavior": false,
+      "object_detections": [],
+      "behavior_detections": []
+    },
+    {
+      "sha256": "49a540f6e5cfcc717e57297df945a05f54393b2b71dad344305affc94310d769",
+      "object_path": "merged_object_detection/test/images/Harmful Object Detection_VID_20250412_160820_frame_0020_jpg.rf.addd2555d5b65643cd78752ff6aa12b6.jpg",
+      "behavior_path": "test/images/VID_20250412_160820_frame_0020_jpg.rf.acdb6bc6555010144d74fbff21d79947.jpg",
+      "reference_object": true,
+      "reference_behavior": true,
+      "predicted_object": false,
+      "predicted_behavior": true,
+      "object_detections": [],
+      "behavior_detections": [
+        [
+          280,
+          191,
+          449,
+          459,
+          0,
+          0.7317285537719727
+        ]
+      ]
+    },
+    {
+      "sha256": "6887c8bd93f8363884ad80b5f11d4a28b522d5b4652140bf9f5cc80d12d9d183",
+      "object_path": "merged_object_detection/test/images/Harmful Object Detection_IMG_20250412_135559_528_jpg.rf.dfc27d39f571cb377f30fafa8af380ee.jpg",
+      "behavior_path": "test/images/IMG_20250412_135559_528_jpg.rf.0df96d4dcf1b6aafb0266e9cf6f512e5.jpg",
+      "reference_object": false,
+      "reference_behavior": false,
+      "predicted_object": false,
+      "predicted_behavior": false,
+      "object_detections": [],
+      "behavior_detections": []
+    },
+    {
+      "sha256": "83bae09c06380b640cedf7aff8289db7699139e88ab3e94e4ed66cf8fa069c0d",
+      "object_path": "merged_object_detection/test/images/Harmful Object Detection_VID_20250412_160745_frame_0016_jpg.rf.936875811319730f44d822f6f948a988.jpg",
+      "behavior_path": "test/images/VID_20250412_160745_frame_0016_jpg.rf.6b40bdab3452448461f8b91cb36f983a.jpg",
+      "reference_object": true,
+      "reference_behavior": false,
+      "predicted_object": true,
+      "predicted_behavior": false,
+      "object_detections": [
+        [
+          257,
+          306,
+          358,
+          363,
+          1,
+          0.5248251557350159
+        ]
+      ],
+      "behavior_detections": []
+    },
+    {
+      "sha256": "8a13a50266652d3532a7c83ec1c25f51672d03b8e2ef9055c148a6bfe3129711",
+      "object_path": "merged_object_detection/test/images/Harmful Object Detection_VID_20250412_161737_frame_0010_jpg.rf.03903e374d62f3a77788b0fdcb068be2.jpg",
+      "behavior_path": "test/images/VID_20250412_161737_frame_0010_jpg.rf.6be7978acc809f1eb8bd3da8ddeab404.jpg",
+      "reference_object": true,
+      "reference_behavior": false,
+      "predicted_object": false,
+      "predicted_behavior": false,
+      "object_detections": [],
+      "behavior_detections": []
+    },
+    {
+      "sha256": "c188840e49d812c6c2c502c1c52a7ae430940796c1f7f6184b47b6585c608731",
+      "object_path": "merged_object_detection/test/images/Harmful Object Detection_IMG_20250412_153723_028_jpg.rf.432ba79469ac36a41b861e695c0a0d47.jpg",
+      "behavior_path": "test/images/IMG_20250412_153723_028_jpg.rf.5ca40a0cbd05b66737068680c2456f95.jpg",
+      "reference_object": true,
+      "reference_behavior": true,
+      "predicted_object": true,
+      "predicted_behavior": false,
+      "object_detections": [
+        [
+          195,
+          286,
+          232,
+          383,
+          9,
+          0.5357861518859863
+        ],
+        [
+          484,
+          69,
+          518,
+          267,
+          9,
+          0.5101923942565918
+        ]
+      ],
+      "behavior_detections": []
+    },
+    {
+      "sha256": "e60fd03724553f1e0928bfd5fc66c2b3dbecdebac703a9627737e54b5576c70b",
+      "object_path": "merged_object_detection/test/images/Harmful Object Detection_IMG_20250412_152852_439_jpg.rf.4328595bbe33bdcf4ec62d353305e837.jpg",
+      "behavior_path": "test/images/IMG_20250412_152852_439_jpg.rf.936c961812274d409f635aa49b76170e.jpg",
+      "reference_object": false,
+      "reference_behavior": false,
+      "predicted_object": false,
+      "predicted_behavior": false,
+      "object_detections": [],
+      "behavior_detections": []
+    }
+  ]
+}

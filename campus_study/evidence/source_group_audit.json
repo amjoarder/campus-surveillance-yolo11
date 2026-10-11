@@ -1,0 +1,87 @@
+{
+  "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Defense\\dataset\\Harmful Object Detection": {
+    "train": {
+      "image_count": 2154,
+      "export_source_name_groups": 718,
+      "variants_per_name_histogram": {
+        "3": 718
+      }
+    },
+    "valid": {
+      "image_count": 200,
+      "export_source_name_groups": 200,
+      "variants_per_name_histogram": {
+        "1": 200
+      }
+    },
+    "test": {
+      "image_count": 103,
+      "export_source_name_groups": 103,
+      "variants_per_name_histogram": {
+        "1": 103
+      }
+    },
+    "name_group_overlap": {
+      "train_valid": 0,
+      "train_test": 0,
+      "valid_test": 0
+    }
+  },
+  "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Defense\\dataset\\thirdvision-with-blunt-objects": {
+    "train": {
+      "image_count": 8312,
+      "export_source_name_groups": 2540,
+      "variants_per_name_histogram": {
+        "6": 131,
+        "3": 2356,
+        "9": 36,
+        "12": 6,
+        "15": 3,
+        "4": 1,
+        "2": 6,
+        "1": 1
+      }
+    },
+    "valid": {
+      "image_count": 666,
+      "export_source_name_groups": 643,
+      "variants_per_name_histogram": {
+        "1": 622,
+        "2": 19,
+        "3": 2
+      }
+    },
+    "test": {
+      "image_count": 327,
+      "export_source_name_groups": 323,
+      "variants_per_name_histogram": {
+        "1": 320,
+        "3": 1,
+        "2": 2
+      }
+    },
+    "name_group_overlap": {
+      "train_valid": 102,
+      "train_test": 56,
+      "valid_test": 19
+    }
+  },
+  "behavior_export": {
+    "train": {
+      "images": 804,
+      "positive_images": 422,
+      "background_images": 382
+    },
+    "valid": {
+      "images": 230,
+      "positive_images": 102,
+      "background_images": 128
+    },
+    "test": {
+      "images": 115,
+      "positive_images": 69,
+      "background_images": 46
+    }
+  },
+  "root_object_zip_sha256": "99f2001ea98df0f97e3b27b9e28744450ff482e1fc0c27471bebf553971f48c5"
+}

@@ -1,0 +1,425 @@
+test/images/Harmful Object Detection_cricket_bat_002_jpg.rf.93f014c59cd1800f16ac494853147966.jpg
+test/images/Harmful Object Detection_cricket_bat_013_jpg.rf.b7c0b6ed0ff95bb27178952f608989ba.jpg
+test/images/Harmful Object Detection_cricket_bat_030_jpg.rf.d51a32a961022b332e783b5909589fe6.jpg
+test/images/Harmful Object Detection_cricket_bat_048_jpg.rf.2e8527ef4a233643faf9f23c4194d016.jpg
+test/images/Harmful Object Detection_cricket_bat_052_jpg.rf.1ba9c954131d78ce3a32a31117af2dad.jpg
+test/images/Harmful Object Detection_IMG_20250412_135418_738_jpg.rf.fe54c64292dbe331f44481c90b1f2b44.jpg
+test/images/Harmful Object Detection_IMG_20250412_135420_393_jpg.rf.14d590363155dd0b3bfdfa150eb7c02f.jpg
+test/images/Harmful Object Detection_IMG_20250412_135526_801_jpg.rf.f74e6a612e2ff7d58999b11cae206071.jpg
+test/images/Harmful Object Detection_IMG_20250412_135530_889_jpg.rf.2b371307800cf0d3902d670115b7b2b5.jpg
+test/images/Harmful Object Detection_IMG_20250412_135552_861_jpg.rf.3494bba8242637c5372e02a6004adb57.jpg
+test/images/Harmful Object Detection_IMG_20250412_135559_528_jpg.rf.dfc27d39f571cb377f30fafa8af380ee.jpg
+test/images/Harmful Object Detection_IMG_20250412_135712_271_jpg.rf.491790e5d530bb7883e1c946090adf85.jpg
+test/images/Harmful Object Detection_IMG_20250412_141938_213_jpg.rf.f2c970fa6778812162c218878b2d3ffe.jpg
+test/images/Harmful Object Detection_IMG_20250412_142447_002_jpg.rf.cd4e9bb2f3e78d7079c702737a5751d1.jpg
+test/images/Harmful Object Detection_IMG_20250412_142459_488_jpg.rf.4756fac67e50c25df4cb06d5734f1eed.jpg
+test/images/Harmful Object Detection_IMG_20250412_142600_290_jpg.rf.bb8bc97b3a54d240aad441bf3bc910e8.jpg
+test/images/Harmful Object Detection_IMG_20250412_142618_406_jpg.rf.ba14a2a7939e1f613ff7f0ff22daa9eb.jpg
+test/images/Harmful Object Detection_IMG_20250412_142625_884_jpg.rf.e346ed2213872301d58573476e99aeb0.jpg
+test/images/Harmful Object Detection_IMG_20250412_142844_751_jpg.rf.e8e9f0eff20aaafc545c2d620670d65e.jpg
+test/images/Harmful Object Detection_IMG_20250412_151953_049_jpg.rf.0cdfb1f0ff3c074ed220d4019c838879.jpg
+test/images/Harmful Object Detection_IMG_20250412_151958_257_jpg.rf.9d6343ccd99030e3846f38267c7f7fd6.jpg
+test/images/Harmful Object Detection_IMG_20250412_152030_628_jpg.rf.330376c7aab599c32cf30f161f0023a7.jpg
+test/images/Harmful Object Detection_IMG_20250412_152158_663_jpg.rf.d6300708faf9f313c9149c0fbc37d0e3.jpg
+test/images/Harmful Object Detection_IMG_20250412_152226_327_jpg.rf.6b3def882e31d0d32605b4a40299b80c.jpg
+test/images/Harmful Object Detection_IMG_20250412_152229_964_jpg.rf.d59060c1cf535b277a10b4e17da38d77.jpg
+test/images/Harmful Object Detection_IMG_20250412_152852_439_jpg.rf.4328595bbe33bdcf4ec62d353305e837.jpg
+test/images/Harmful Object Detection_IMG_20250412_153638_942_jpg.rf.c6e169aa85c1ac4efea316572112612c.jpg
+test/images/Harmful Object Detection_IMG_20250412_153723_028_jpg.rf.432ba79469ac36a41b861e695c0a0d47.jpg
+test/images/Harmful Object Detection_IMG_20250412_153732_090_jpg.rf.9707cadbd624f9ba48df15daa91e46cf.jpg
+test/images/Harmful Object Detection_IMG_20250412_153904_377_jpg.rf.0e7199300bf1e993da5a0d9a82976a4f.jpg
+test/images/Harmful Object Detection_IMG_20250412_154038_837_jpg.rf.7e0274a20034d2d9f49b16c10bd9d016.jpg
+test/images/Harmful Object Detection_IMG_20250412_154107_489_jpg.rf.e29707e5cccb3eb09680854db286e36c.jpg
+test/images/Harmful Object Detection_IMG_20250412_154242_027_jpg.rf.2af86c06387dbbd4fcdef758c5cbb9c1.jpg
+test/images/Harmful Object Detection_IMG_20250412_154435_279_jpg.rf.9ff2ca28b46d61a872105434e443b7bf.jpg
+test/images/Harmful Object Detection_IMG_20250412_154610_4_jpg.rf.8332c1b933909ead9f572a0dc4c9a282.jpg
+test/images/Harmful Object Detection_IMG_20250412_154759_146_jpg.rf.fecb94ce7e580a8486885e915ecb4282.jpg
+test/images/Harmful Object Detection_IMG_20250412_154801_846_jpg.rf.a3e3675d54ee51b1ecc3b59d846ca572.jpg
+test/images/Harmful Object Detection_IMG_20250412_154939_126_jpg.rf.f4d7fee7866860663751a2d8a5c7dc4e.jpg
+test/images/Harmful Object Detection_IMG_20250412_155002_866_jpg.rf.1b1cbdc68458c93d3a23e751b2dc793e.jpg
+test/images/Harmful Object Detection_IMG_20250412_160529_423_jpg.rf.9882440a440b812336a0c258076e4344.jpg
+test/images/Harmful Object Detection_IMG_20250412_160603_283_jpg.rf.b80fea3c7d19a411c607cf18717b7ea1.jpg
+test/images/Harmful Object Detection_IMG_20250412_160612_530_jpg.rf.3dd2d88cbeed1a94459421032cb8f9dc.jpg
+test/images/Harmful Object Detection_IMG_20250412_161348_181_jpg.rf.1f8811e4278762ebe480b412ea66f9d9.jpg
+test/images/Harmful Object Detection_IMG_20250412_165946_462_jpg.rf.66a7b1da65f6a424cf851060a5cba9b2.jpg
+test/images/Harmful Object Detection_IMG_20250412_165948_539_jpg.rf.7870d8a7f040eefe702147440f17b9d4.jpg
+test/images/Harmful Object Detection_IMG_20250413_132527_670_jpg.rf.43ed0f1727700d10b224f333e8388591.jpg
+test/images/Harmful Object Detection_IMG_20250413_132528_963_jpg.rf.6a2f5e5c818ebd16de9c1de4d5962bd2.jpg
+test/images/Harmful Object Detection_VID_20250412_155238_frame_0012_jpg.rf.e55e5977f7ff1de6e985ba49b8133f7e.jpg
+test/images/Harmful Object Detection_VID_20250412_155328_frame_0002_jpg.rf.65dbb63a0fda33d172675629edc7033d.jpg
+test/images/Harmful Object Detection_VID_20250412_155328_frame_0016_jpg.rf.600cb456c93fef51e443db67477fe739.jpg
+test/images/Harmful Object Detection_VID_20250412_155537_frame_0006_jpg.rf.1320258c0d2555cd62b1ae8b6978f60d.jpg
+test/images/Harmful Object Detection_VID_20250412_155628_frame_0010_jpg.rf.b2bdeee4513ecac4c55bbc41aff20cdc.jpg
+test/images/Harmful Object Detection_VID_20250412_155713_frame_0015_jpg.rf.b7b1dfccc9c1c60fd913e16637d0a916.jpg
+test/images/Harmful Object Detection_VID_20250412_155713_frame_0016_jpg.rf.6ba9002d7e2e1244ed08dc8584ea2d42.jpg
+test/images/Harmful Object Detection_VID_20250412_155713_frame_0017_jpg.rf.08075784ca917c77e340697f6f51bf94.jpg
+test/images/Harmful Object Detection_VID_20250412_160626_frame_0001_jpg.rf.72bbb5dbfb9c207e4a72e3c278250a8c.jpg
+test/images/Harmful Object Detection_VID_20250412_160626_frame_0020_jpg.rf.912d5ed20771a9a480959dba1d9b6e6d.jpg
+test/images/Harmful Object Detection_VID_20250412_160653_frame_0002_jpg.rf.448900886a2018c26f85b3557f50cc07.jpg
+test/images/Harmful Object Detection_VID_20250412_160653_frame_0018_jpg.rf.9fc6cec3a84f179e6f8f1e8c8295a616.jpg
+test/images/Harmful Object Detection_VID_20250412_160653_frame_0020_jpg.rf.d2afd8a762fd5c028e28d53ed1adefe4.jpg
+test/images/Harmful Object Detection_VID_20250412_160653_frame_0021_jpg.rf.4b5dedc3a5a78c6a3cfba45c58d1f863.jpg
+test/images/Harmful Object Detection_VID_20250412_160745_frame_0005_jpg.rf.7bc08c6463737c6eca53de56cfa09fa4.jpg
+test/images/Harmful Object Detection_VID_20250412_160745_frame_0016_jpg.rf.936875811319730f44d822f6f948a988.jpg
+test/images/Harmful Object Detection_VID_20250412_160820_frame_0009_jpg.rf.de0fd07e4d9eed1c543435ff25612c27.jpg
+test/images/Harmful Object Detection_VID_20250412_160820_frame_0011_jpg.rf.89251bf2283f10babe06e99f7950a26f.jpg
+test/images/Harmful Object Detection_VID_20250412_160820_frame_0015_jpg.rf.de2cc81805e789d15a82e79a2c03cc84.jpg
+test/images/Harmful Object Detection_VID_20250412_160820_frame_0016_jpg.rf.5a129dd4fa511f8b387f617c8538519a.jpg
+test/images/Harmful Object Detection_VID_20250412_160820_frame_0017_jpg.rf.1b338947a053fbc109d74cda6c558d2a.jpg
+test/images/Harmful Object Detection_VID_20250412_160820_frame_0020_jpg.rf.addd2555d5b65643cd78752ff6aa12b6.jpg
+test/images/Harmful Object Detection_VID_20250412_160820_frame_0030_jpg.rf.6d6ab5d74f920c08b35d11574c9f16dc.jpg
+test/images/Harmful Object Detection_VID_20250412_160831_frame_0002_jpg.rf.17c25ac7768ad603bcc2f5a69a40b4e5.jpg
+test/images/Harmful Object Detection_VID_20250412_161019_frame_0019_jpg.rf.e1f10af2842a90896f71e94c3ffd6252.jpg
+test/images/Harmful Object Detection_VID_20250412_161216_frame_0007_jpg.rf.7660840d07defdfb40608a88277c68e0.jpg
+test/images/Harmful Object Detection_VID_20250412_161317_frame_0006_jpg.rf.5c28c97a9f21e86cbd77f1ef8e70fe51.jpg
+test/images/Harmful Object Detection_VID_20250412_161353_frame_0002_jpg.rf.7c340470fe76c8713b5eaf0ffbe44115.jpg
+test/images/Harmful Object Detection_VID_20250412_161607_frame_0011_jpg.rf.6d1242e94392b2605c917d8ea8055484.jpg
+test/images/Harmful Object Detection_VID_20250412_161716_frame_0001_jpg.rf.5bb74072f4201d19c024dbc98d7b417e.jpg
+test/images/Harmful Object Detection_VID_20250412_161716_frame_0002_jpg.rf.ab60d08076decd29b09d369f013f0a67.jpg
+test/images/Harmful Object Detection_VID_20250412_161737_frame_0010_jpg.rf.03903e374d62f3a77788b0fdcb068be2.jpg
+test/images/Harmful Object Detection_VID_20250412_161930_frame_0012_jpg.rf.e348df2935ea7d9c24b472f187d45722.jpg
+test/images/Harmful Object Detection_VID_20250412_161930_frame_0020_jpg.rf.130bc8381fdf681ac8fcec8abe6be21d.jpg
+test/images/Harmful Object Detection_VID_20250412_161957_frame_0006_jpg.rf.bbb86d6eda7e4c7997a1c984c7e01beb.jpg
+test/images/Harmful Object Detection_VID_20250412_162156_frame_0001_jpg.rf.8e52e9421956f30d2548c3160786556c.jpg
+test/images/Harmful Object Detection_VID_20250412_162333_frame_0001_jpg.rf.6ab65f4dca1109519565cbe3116e5851.jpg
+test/images/Harmful Object Detection_VID_20250412_162611_frame_0001_jpg.rf.9563cc9c20406a86a864e501f10caf02.jpg
+test/images/Harmful Object Detection_VID_20250412_162611_frame_0002_jpg.rf.b25261b397f72b8191fa8a4fbfd9c1e4.jpg
+test/images/Harmful Object Detection_VID_20250412_162611_frame_0003_jpg.rf.a84cc0af3823cadb9a23afca1d10740c.jpg
+test/images/Harmful Object Detection_VID_20250412_162810_frame_0007_jpg.rf.3ca1f64a718a9b30a5374aa837985589.jpg
+test/images/Harmful Object Detection_VID_20250412_162810_frame_0013_jpg.rf.3cf7ebac71e813ab42143fc0b0af2b27.jpg
+test/images/Harmful Object Detection_VID_20250412_162830_frame_0006_jpg.rf.ea785c01f7415410c528f2d996a97df4.jpg
+test/images/Harmful Object Detection_VID_20250412_163013_frame_0008_jpg.rf.6035fb7599d6d787f657d8ffbab3bc43.jpg
+test/images/Harmful Object Detection_VID_20250412_163237_frame_0002_jpg.rf.e58e18e7ce5a9a589a619873998bb556.jpg
+test/images/Harmful Object Detection_VID_20250412_163307_frame_0002_jpg.rf.7213c013f20c70700b79addc8e342ec7.jpg
+test/images/Harmful Object Detection_VID_20250412_163345_frame_0007_jpg.rf.5d935ed9bb3e558557912e58913d02ba.jpg
+test/images/Harmful Object Detection_VID_20250412_163345_frame_0022_jpg.rf.6a95346ee62f0b403e699a610f37699c.jpg
+test/images/Harmful Object Detection_VID_20250412_163456_frame_0004_jpg.rf.45f0c6f822c7d94bbd0ca62d6efc480f.jpg
+test/images/Harmful Object Detection_VID_20250412_163456_frame_0006_jpg.rf.3489635b717bc6369b38bb89b288f0be.jpg
+test/images/Harmful Object Detection_VID_20250412_163602_frame_0007_jpg.rf.15a111471f4390a8c93458082c7ed567.jpg
+test/images/Harmful Object Detection_VID_20250412_163602_frame_0009_jpg.rf.c588d35777030db652fcff9569217ce4.jpg
+test/images/Harmful Object Detection_VID_20250412_163602_frame_0016_jpg.rf.68d4c80f7a7ef8f89b31803bcb3ecc70.jpg
+test/images/Harmful Object Detection_VID_20250412_163602_frame_0017_jpg.rf.724ae1477f98ea9e07b2790e708dacf2.jpg
+test/images/Harmful Object Detection_VID_20250412_163716_frame_0002_jpg.rf.27b5ab017c4d1eccd6fd82a7944f20c5.jpg
+test/images/Harmful Object Detection_VID_20250412_163741_frame_0004_jpg.rf.6a0a26594550d9a92ba40bef33594fed.jpg
+test/images/thirdvision-with-blunt-objects_-183-_jpg.rf.c0b162ead1fceaacecd4efced7e78192.jpg
+test/images/thirdvision-with-blunt-objects_-186-_jpg.rf.c8b08fef01681cee0ecb6b98eaf1d39c.jpg
+test/images/thirdvision-with-blunt-objects_-211-_jpg.rf.6a5e5e742f9b78d0d012ebcd411488a4.jpg
+test/images/thirdvision-with-blunt-objects_-215-_jpg.rf.1044e374604ca67bdda2c5f2e0d2115d.jpg
+test/images/thirdvision-with-blunt-objects_-219-_jpg.rf.c960c450edb46bbd283ec1421f2e64d1.jpg
+test/images/thirdvision-with-blunt-objects_-222-_jpg.rf.f21496075eb5581736b513773e17c485.jpg
+test/images/thirdvision-with-blunt-objects_-224-_jpg.rf.202b9bcd2a1afe8e173b3d3bf11dd454.jpg
+test/images/thirdvision-with-blunt-objects_-234-_jpg.rf.87adebd425db7585f508e72c73de8162.jpg
+test/images/thirdvision-with-blunt-objects_-235-_jpg.rf.30e1c9c15f9ead3ea8f85920d28ae072.jpg
+test/images/thirdvision-with-blunt-objects_-240-_jpg.rf.72e9130d31f86bcda18ae5bc17ed7319.jpg
+test/images/thirdvision-with-blunt-objects_-241-_jpg.rf.165f26a00ac5500b0f8e789d9205f067.jpg
+test/images/thirdvision-with-blunt-objects_-245-_jpg.rf.1bbad7f36bd609b5c3e0c95a0bc6ed79.jpg
+test/images/thirdvision-with-blunt-objects_-248-_jpg.rf.1775fb7d90a427a79ee60fa64ddba807.jpg
+test/images/thirdvision-with-blunt-objects_-25-_jpg.rf.3652f17bc95bc2c75e61afe9dfd59229.jpg
+test/images/thirdvision-with-blunt-objects_-250-_jpg.rf.d58d47977d8691ca98c6d5de5c008806.jpg
+test/images/thirdvision-with-blunt-objects_-251-_jpg.rf.6f4805dce0775c0cd864ea144a7f57bb.jpg
+test/images/thirdvision-with-blunt-objects_-252-_jpg.rf.0562be2b1b8c4a93c1f473669bc7665e.jpg
+test/images/thirdvision-with-blunt-objects_-255-_jpg.rf.a2610a19597051408a8d10fbab0d714a.jpg
+test/images/thirdvision-with-blunt-objects_-258-_jpg.rf.b330c1657dee35e6c1ddd6213d690272.jpg
+test/images/thirdvision-with-blunt-objects_-259-_jpg.rf.21e73585a67da46c62a9bfa065837416.jpg
+test/images/thirdvision-with-blunt-objects_-261-_jpg.rf.3bfe795415c91f3b58b029150c68bb6f.jpg
+test/images/thirdvision-with-blunt-objects_-265-_jpg.rf.ac1ba2d16125db3fa803648a9e30a4bf.jpg
+test/images/thirdvision-with-blunt-objects_-279-_jpg.rf.68e97d5eac4f6f40703233d30bd25900.jpg
+test/images/thirdvision-with-blunt-objects_-28-_jpg.rf.a62535bcdd0707b1867b05b974337a61.jpg
+test/images/thirdvision-with-blunt-objects_-281-_jpg.rf.4c0918065a9d619bd608572aa6ff958c.jpg
+test/images/thirdvision-with-blunt-objects_-284-_jpg.rf.652f2c483dcdd76f9bd2216c5630b78e.jpg
+test/images/thirdvision-with-blunt-objects_-288-_jpg.rf.052c6742878e566a2b355c223b7993a5.jpg
+test/images/thirdvision-with-blunt-objects_-300-_jpg.rf.641ae37dee681a7b25b7239d12bc1cbb.jpg
+test/images/thirdvision-with-blunt-objects_-7-_jpg.rf.2616d1959fb04e05077c2937e07c9f1c.jpg
+test/images/thirdvision-with-blunt-objects_000012_jpg.rf.9d4b90a0d28146878e8d8022cbc3dff8.jpg
+test/images/thirdvision-with-blunt-objects_000012_jpg.rf.b0fc211c7ea0b8c9bfc21517b91c8265.jpg
+test/images/thirdvision-with-blunt-objects_000012_jpg.rf.ba38f82319f0adfc0e5064dc10bb3915.jpg
+test/images/thirdvision-with-blunt-objects_000016_jpg.rf.8702da585f9e9a2ad9898b5c1c7a095c.jpg
+test/images/thirdvision-with-blunt-objects_000020_jpg.rf.4ea59615e0dc4eece33e1414d2be1dcc.jpg
+test/images/thirdvision-with-blunt-objects_000031_jpg.rf.a839faf1337f9d51c23f836ddc5af72f.jpg
+test/images/thirdvision-with-blunt-objects_000032_jpg.rf.8289cfbdc90915d74abddd16e470ace8.jpg
+test/images/thirdvision-with-blunt-objects_000034_jpg.rf.5fe39c08b72ad710ef60a065d1231be1.jpg
+test/images/thirdvision-with-blunt-objects_000034_png.rf.5106740ee9c24ac8b23716f7597977e3.jpg
+test/images/thirdvision-with-blunt-objects_000042_jpg.rf.1578ec96f4ff2665f3803ce90baa0689.jpg
+test/images/thirdvision-with-blunt-objects_000049_png.rf.3f0f42e17c3bb653da68ff04d531ba83.jpg
+test/images/thirdvision-with-blunt-objects_000056_jpg.rf.636612e2754c3916c92c989802313475.jpg
+test/images/thirdvision-with-blunt-objects_000072_jpg.rf.9ec0bc810d5775044c9898d1ef983743.jpg
+test/images/thirdvision-with-blunt-objects_000075_jpg.rf.6a2e4c3b6728a2f400127d850f72dfe3.jpg
+test/images/thirdvision-with-blunt-objects_000077_jpg.rf.9fd122c7e1a5b63b662d6f9c53913b6a.jpg
+test/images/thirdvision-with-blunt-objects_000106_jpg.rf.7cca1466f32663cdeb2208cfd4680fa1.jpg
+test/images/thirdvision-with-blunt-objects_000135_jpg.rf.99a26d6a8cbcb0bcbb0f8c931a9e12a9.jpg
+test/images/thirdvision-with-blunt-objects_006_jpg.rf.4376317f506e0113ff0d6c33e696a047.jpg
+test/images/thirdvision-with-blunt-objects_021_jpg.rf.cfb97eafc1ec927c0a5eb9047b0415a3.jpg
+test/images/thirdvision-with-blunt-objects_05_14_0000398_jpg.rf.3f8c1f41b432de85a1d0548157539c78.jpg
+test/images/thirdvision-with-blunt-objects_05_14_0000441_jpg.rf.6f29312ffe2d80059bd967216c7b887b.jpg
+test/images/thirdvision-with-blunt-objects_05_14_0000509_jpg.rf.f71c8e34cea9e01385a042833cc21abb.jpg
+test/images/thirdvision-with-blunt-objects_05_14_0000772_jpg.rf.85d95616cd6ec0ba1ed9467a9810cd23.jpg
+test/images/thirdvision-with-blunt-objects_05_14_0000782_jpg.rf.b9ebb9ebb4d38009c0d3d60d5d6db3f7.jpg
+test/images/thirdvision-with-blunt-objects_05dd7955a64bfde50264f022a45c902e_jpg.rf.7dbbbf385413e09228facd2d5c078607.jpg
+test/images/thirdvision-with-blunt-objects_10085_bmp_jpg.rf.dd560f835a3bfab20c7e2fdc050eb1e9.jpg
+test/images/thirdvision-with-blunt-objects_102_jpg.rf.e5afd3f3856dadb500d96c210906d47f.jpg
+test/images/thirdvision-with-blunt-objects_1051_jpg.rf.5d1e202e4db2ff4276856db5d9c9f730.jpg
+test/images/thirdvision-with-blunt-objects_11VV8GC67L0S_jpg.rf.8121e56f0f9ec3b949c05234af80cab4.jpg
+test/images/thirdvision-with-blunt-objects_124_jpg.rf.44d8c8563166e71ab7e0276190d62666.jpg
+test/images/thirdvision-with-blunt-objects_12_jpg.rf.2f36aad13010749333599f23d8aad533.jpg
+test/images/thirdvision-with-blunt-objects_135_jpg.rf.327b214ab23f0695357fa4898fa18a6b.jpg
+test/images/thirdvision-with-blunt-objects_139_png.rf.59c61bc4a568df9d4782ada448f7ee81.jpg
+test/images/thirdvision-with-blunt-objects_158_jpg.rf.655241f4db8cf53b19694d2335a6a268.jpg
+test/images/thirdvision-with-blunt-objects_16_jpg.rf.4665694067287c1f52e4f03e1fe079dd.jpg
+test/images/thirdvision-with-blunt-objects_172_jpg.rf.3d8c5fd1ba37adc41b229b4aa3b11ac3.jpg
+test/images/thirdvision-with-blunt-objects_175_jpg.rf.32a91aead464a77922c3aae3af95ae07.jpg
+test/images/thirdvision-with-blunt-objects_176_jpg.rf.240be7d1c4e3877072e5bdc377006d41.jpg
+test/images/thirdvision-with-blunt-objects_189c68c3-849b-4083-9fbe-8b69c9720179-Copy-2-Copy_jpg.rf.8b82c79013abe46aa697bb36734d9964.jpg
+test/images/thirdvision-with-blunt-objects_189c68c3-849b-4083-9fbe-8b69c9720179_jpg.rf.c0069695ef7e171107e4dfb4da9942f1.jpg
+test/images/thirdvision-with-blunt-objects_18_jpg.rf.6bd5025fe1c568c333f3550b18ad0d25.jpg
+test/images/thirdvision-with-blunt-objects_18_jpg.rf.f37c51438896870202a1187d3f25e0f5.jpg
+test/images/thirdvision-with-blunt-objects_191_jpg.rf.b2c38ebc9a29d5fbb30c5a9f3c48d842.jpg
+test/images/thirdvision-with-blunt-objects_1ASB7Y1BU5RI_jpg.rf.b24c07ac059bb06a3108ecf44c5dd303.jpg
+test/images/thirdvision-with-blunt-objects_1dc3faed-44cb-450a-84e4-77a0b1bd3ecb_jpg.rf.0879de97273b5524998a98c263b66fb7.jpg
+test/images/thirdvision-with-blunt-objects_1Z1Z8UWY02Q3_jpg.rf.551919615760cf3b5f94ee3af49071de.jpg
+test/images/thirdvision-with-blunt-objects_2-132-_jpg.rf.9a7d23f0748a621ff7d2f2c8f306f675.jpg
+test/images/thirdvision-with-blunt-objects_2-143-_jpg.rf.89f76cbf72af3878035ade7a3fa907f4.jpg
+test/images/thirdvision-with-blunt-objects_2-155-_jpg.rf.9e9049eb0b830921aaf85fb46557db36.jpg
+test/images/thirdvision-with-blunt-objects_2-158-_jpg.rf.04ce94440d9c0e4a7ea446e0bcaa3477.jpg
+test/images/thirdvision-with-blunt-objects_2-253-_jpg.rf.e3a8c273ba2d8a2098531e6094a7e95a.jpg
+test/images/thirdvision-with-blunt-objects_2-61-_jpg.rf.b6e95f4e19fa80f29954da5070a27d84.jpg
+test/images/thirdvision-with-blunt-objects_201_jpg.rf.fa0ddf08b68dcedae8b8215d6f158e5f.jpg
+test/images/thirdvision-with-blunt-objects_20221010_222423_jpg.rf.c3e288ee6babca7a106111b0ba0fb737.jpg
+test/images/thirdvision-with-blunt-objects_20221013_145933-0-_jpg.rf.7e1ebb3029ca9b5e374ffc4a07f676a7.jpg
+test/images/thirdvision-with-blunt-objects_20221013_212540_jpg.rf.df6749abb03c6c7102404b734558bb09.jpg
+test/images/thirdvision-with-blunt-objects_217_jpg.rf.6cf36a8a53d2e63a5cc2abfba6cd6a06.jpg
+test/images/thirdvision-with-blunt-objects_21_jpg.rf.8127f7eea211f809ed492e17a4959fff.jpg
+test/images/thirdvision-with-blunt-objects_222_jpg.rf.997dfd2963aa7aed3b2fd12c2d6b0a4f.jpg
+test/images/thirdvision-with-blunt-objects_230_png.rf.b3f69e54358a7870d4471981b6fb0c42.jpg
+test/images/thirdvision-with-blunt-objects_232_jpg.rf.6c4704f5930073bc87c291f503565920.jpg
+test/images/thirdvision-with-blunt-objects_237_jpg.rf.552ea34806438a1425831ebd075b3e0e.jpg
+test/images/thirdvision-with-blunt-objects_240_F_130900211_9Ji4OOn7tOqXWQ1cDvnQJP1ZFftgxbZx_jpg.rf.8857f741f82dee46f6d35412a2950607.jpg
+test/images/thirdvision-with-blunt-objects_240_F_226103799_bshOx2bYugX1Ivbu5v3pRP0gVC1SjnOA_jpg.rf.609af36fc8867b8a29dde825cda1bc32.jpg
+test/images/thirdvision-with-blunt-objects_241_jpg.rf.557b0ce1c958a968ed8d34d8b46c59cb.jpg
+test/images/thirdvision-with-blunt-objects_247_jpg.rf.836211dc17976609b9d152abb6f0c05b.jpg
+test/images/thirdvision-with-blunt-objects_267_jpg.rf.223cb7e390deff621f7a64a849c6ca6d.jpg
+test/images/thirdvision-with-blunt-objects_273_png.rf.dffc7fa6455ecc03d01b3ade5188ea5c.jpg
+test/images/thirdvision-with-blunt-objects_2756_jpg.rf.f1155db237d49557bb5f7b8c7e357584.jpg
+test/images/thirdvision-with-blunt-objects_2759_jpg.rf.ff77c584046eb2f01eac8550f733a6f2.jpg
+test/images/thirdvision-with-blunt-objects_2866efe5-cf11-42e5-ac55-309a3d4dcc66_jpg.rf.4fcf34b90abbc8bf142940cbb7c94b9d.jpg
+test/images/thirdvision-with-blunt-objects_291_jpg.rf.c48c5109b4d8bcee8b9212aed16b2f71.jpg
+test/images/thirdvision-with-blunt-objects_295_png.rf.b338edbdff613e03a542e9298d8a1693.jpg
+test/images/thirdvision-with-blunt-objects_298_png.rf.9357e696434c79f8e7fa0523ae95aa79.jpg
+test/images/thirdvision-with-blunt-objects_2ca6cba0-cc48-4cd3-9989-bbe7fa5ff630_jpg.rf.0d4416c472b1521b70bf00b45c856ff9.jpg
+test/images/thirdvision-with-blunt-objects_2OUW37M5IITO_jpg.rf.8fd57d8ae7d6d15ac782feeca65399a0.jpg
+test/images/thirdvision-with-blunt-objects_32-bore-gun-images_165_jpeg.rf.db180cd56f88ec1f2203c9cc5c5de98a.jpg
+test/images/thirdvision-with-blunt-objects_32_jpeg.rf.8877e6f31285bf99a49bd854d16f69ab.jpg
+test/images/thirdvision-with-blunt-objects_36_jpg.rf.6a1044b5476e07f46f75cd6ae37644b2.jpg
+test/images/thirdvision-with-blunt-objects_37_png.rf.1f79846430ac7ea13b6a942275adf052.jpg
+test/images/thirdvision-with-blunt-objects_38_jpg.rf.6e507f6deb1d400b66fcb5c4d72c391e.jpg
+test/images/thirdvision-with-blunt-objects_39_jpg.rf.b371d996c679d687ba1cb59635b793c2.jpg
+test/images/thirdvision-with-blunt-objects_3feda8b0a940b89a54152ee8af688fc8_jpeg.rf.7931d5c5113fddbd6e9e64d79c70aa1d.jpg
+test/images/thirdvision-with-blunt-objects_406257713-1602662641_jpeg.rf.3011783b1f22f63c2322f80f8af83446.jpg
+test/images/thirdvision-with-blunt-objects_41149d14-47d0-4011-a478-9963506c60c2_jpg.rf.1c8d1b2c568566f86afd1b4e6351bc2a.jpg
+test/images/thirdvision-with-blunt-objects_425630389-1607583926_jpeg.rf.258831670cce4a6f52d9e193d2ff674c.jpg
+test/images/thirdvision-with-blunt-objects_428PDB30LRO0_jpg.rf.117ae4168c141b499555bf83f213d9a0.jpg
+test/images/thirdvision-with-blunt-objects_42_jpg.rf.90d7765c140366270cec140f4f8fc944.jpg
+test/images/thirdvision-with-blunt-objects_43_jpg.rf.8e4531327354afeed9a8435f2440bf0c.jpg
+test/images/thirdvision-with-blunt-objects_443952117-1612508681_jpeg.rf.0c02d7e3d8bd3245a95ac37880db6516.jpg
+test/images/thirdvision-with-blunt-objects_459aab8b-70f5-4eca-a5bb-a45dd83b842e-Copy-2-Copy_jpg.rf.5434b893a5c68cc37bbcc85d9a76c80b.jpg
+test/images/thirdvision-with-blunt-objects_4fca229330842324dcaedb8a904755e9_jpeg.rf.c421622e974d06c47478d35e68242bed.jpg
+test/images/thirdvision-with-blunt-objects_51_jpg.rf.95483f23cfccab50d52409ff2557b372.jpg
+test/images/thirdvision-with-blunt-objects_64820b28-aa7c-4b7b-aa58-6683b2725582-Copy-2-Copy_jpg.rf.f90cf015e36603505a786812235ffbfc.jpg
+test/images/thirdvision-with-blunt-objects_6501420e-9d89-4cb9-bc3b-605173c9f377_jpg.rf.82124c2b96eeacfe631c63252266955d.jpg
+test/images/thirdvision-with-blunt-objects_6_22_1_0001096_jpg.rf.f58afdb234de157fcedbb1e6a214cde1.jpg
+test/images/thirdvision-with-blunt-objects_6_22_1_0001384_jpg.rf.fa2072c0ba9974ae3f994d80201c34cd.jpg
+test/images/thirdvision-with-blunt-objects_6_jpg.rf.57a7f154ffadac120236c4adf0670149.jpg
+test/images/thirdvision-with-blunt-objects_6bea2f59-1b0b-4e6b-b950-e0b4106da28e_jpg.rf.f75c45f34ed2e02ec5acf22c30d51497.jpg
+test/images/thirdvision-with-blunt-objects_74_jpg.rf.c62d18db7134fab9be19cfa9e61ea410.jpg
+test/images/thirdvision-with-blunt-objects_78_jpg.rf.163147f8354b9f0f03b79394de81a727.jpg
+test/images/thirdvision-with-blunt-objects_80e8fcdf-7bc5-4068-a6ae-529fb7adc0fb_jpg.rf.54c52ec40a891dc39aaf7287c78dd655.jpg
+test/images/thirdvision-with-blunt-objects_82MZ64OMWDY4_jpg.rf.9d643d8f6a42f6831948b40b4ffe4687.jpg
+test/images/thirdvision-with-blunt-objects_88_jpeg.rf.3bd8ecce9fa34f29ff82f5140fab13f7.jpg
+test/images/thirdvision-with-blunt-objects_8eb75c83-5de5-40ab-b12f-216ffff80ee4_jpg.rf.8f8dad0fb115092244a0874eb26710cc.jpg
+test/images/thirdvision-with-blunt-objects_8fe74642-7123-4192-a0e7-5c6a6912d93c-Copy-2-Copy_jpg.rf.09c1529a8f99e10421a7909da36dd370.jpg
+test/images/thirdvision-with-blunt-objects_9ed0604e-58bb-45eb-98b8-52863c073f55-Copy-2-Copy_jpg.rf.a03344402b7c06610bc9ae58e4c5a24a.jpg
+test/images/thirdvision-with-blunt-objects_a1da1874-e6a9-4f2a-a619-42d41b949329_jpg.rf.32164607e15f2be5704cd5c10a2eee73.jpg
+test/images/thirdvision-with-blunt-objects_a36138f0-8439-4ffe-8de1-5636e778f992_jpg.rf.0e6a4d38b3a374322bad0e256b96a068.jpg
+test/images/thirdvision-with-blunt-objects_a94c1d2f-2e09-4aa9-ac0c-fce00e122808_jpg.rf.13fc452e40540e5904be5e5f7af3285c.jpg
+test/images/thirdvision-with-blunt-objects_ae97ef68-56db-4121-9dab-19667f530cfb_jpg.rf.3e3ac304bbacb04c2c41ca5a9a2d74e6.jpg
+test/images/thirdvision-with-blunt-objects_armas-1731-_jpg.rf.701ef157f32abf315db96072deb828bd.jpg
+test/images/thirdvision-with-blunt-objects_armas-1733-_jpg.rf.c868fb0a5eb6a3d5c73464908dd33253.jpg
+test/images/thirdvision-with-blunt-objects_armas-183-_jpg.rf.c3490955716841a8c9b2fcba8719ffb8.jpg
+test/images/thirdvision-with-blunt-objects_armas-2328-_jpg.rf.082752f42f18fc9248018b1aa925595e.jpg
+test/images/thirdvision-with-blunt-objects_armas-2679-_jpg.rf.1b17663cd85a3619cc344bd2e61cbd6b.jpg
+test/images/thirdvision-with-blunt-objects_armas-31-_jpg.rf.52b9433f289887ca5aaceba5525c71f8.jpg
+test/images/thirdvision-with-blunt-objects_armas-57-_jpg.rf.4e74775a5a8a405b4eae331c6d6e0e20.jpg
+test/images/thirdvision-with-blunt-objects_armas-886-_jpg.rf.06beeac2dd0878706008eb959396c2ce.jpg
+test/images/thirdvision-with-blunt-objects_Automatic-Rifle_13_jpg.rf.4b17bf39c887466fed511c11e1040bd1.jpg
+test/images/thirdvision-with-blunt-objects_Automatic-Rifle_32_jpg.rf.90d4b5f434db5deef34abd242bbbea4b.jpg
+test/images/thirdvision-with-blunt-objects_Automatic-Rifle_50_jpeg_jpg.rf.607908e7402c32407a7d7141f934628f.jpg
+test/images/thirdvision-with-blunt-objects_Automatic-Rifle_55_jpeg_jpg.rf.970763112e5e67cce651adea7b2b9ebb.jpg
+test/images/thirdvision-with-blunt-objects_Automatic-Rifle_71_jpeg_jpg.rf.6a186388271e225b3675eb96814a44ae.jpg
+test/images/thirdvision-with-blunt-objects_b49156138583990c5e84fdb5ccfcb58c_jpg.rf.fd4c094f5c8884b7183267746cb61c2c.jpg
+test/images/thirdvision-with-blunt-objects_B95XFSNBVQZE_jpg.rf.3cc4d252b151d7f5731446e5ac2cfcd3.jpg
+test/images/thirdvision-with-blunt-objects_bc92589f-befb-4f20-af6c-86fc8d6aafbb_jpg.rf.1f27d2b1479b0ab46c2bd0f95299d316.jpg
+test/images/thirdvision-with-blunt-objects_c0161834-0b04-44d0-b5cb-43c82148bbf0_jpg.rf.5662ea919a3827df784ead17bd0d42ed.jpg
+test/images/thirdvision-with-blunt-objects_C79O4K55CGLY_jpg.rf.593d9c6191f7cdbf600b2caf79e7fb35.jpg
+test/images/thirdvision-with-blunt-objects_cde39222-f45d-4d92-b23d-6b24ca178039_jpg.rf.2c279cf86838602ad88e545c0a5efef9.jpg
+test/images/thirdvision-with-blunt-objects_colt-python-images_27_jpeg.rf.88c4b447911b9b0ef63e59e48df78120.jpg
+test/images/thirdvision-with-blunt-objects_D1H0NYKYSYCL_jpg.rf.c02db1ad03fd2ba376f330580a2d3929.jpg
+test/images/thirdvision-with-blunt-objects_desert-eagle-pistol-images_22_jpeg.rf.0f5dca5acd9e5e93cb96a562d95cac21.jpg
+test/images/thirdvision-with-blunt-objects_DN8X4GGLIOF1_jpg.rf.1a495784ee30a31e805a9f73b60e0acf.jpg
+test/images/thirdvision-with-blunt-objects_download-10-_jpg.rf.16b37d0d613e1198eafd1d9b651fa999.jpg
+test/images/thirdvision-with-blunt-objects_download-2-_jpg.rf.124bbca4bff42765ec09f20e96ac1217.jpg
+test/images/thirdvision-with-blunt-objects_download-3-_jpg.rf.528304a0f1848f9953df110d5c5948a2.jpg
+test/images/thirdvision-with-blunt-objects_download-4-_jpg.rf.78b8e5519b3f9083fb840f3b55b505d6.jpg
+test/images/thirdvision-with-blunt-objects_download-6-_jpg.rf.3c8c6b4176fd1c4331e999ce3b5c0ad2.jpg
+test/images/thirdvision-with-blunt-objects_DWXO4EF72TSS_jpg.rf.7453a9072eee2caef1fdc13bf959211f.jpg
+test/images/thirdvision-with-blunt-objects_e0c4c347-4451-4e52-a5d2-98bf1559b1ff_jpg.rf.bd7d788682e334167021b78a0b6f89e0.jpg
+test/images/thirdvision-with-blunt-objects_e5bfd85b-97b6-414f-8b5c-591b800d3d03_jpg.rf.0f5efae537de9bb0bdb3020b0226eb40.jpg
+test/images/thirdvision-with-blunt-objects_ec0134e0-15d3-45cd-a1b7-f22f35b4ac44-Copy-2-_jpg.rf.8b70359a90267e7408c9d7d1d0ef37fb.jpg
+test/images/thirdvision-with-blunt-objects_F49GQGH58JKJ_jpg.rf.0afa51ab056ae3527c44d6b46234bb0f.jpg
+test/images/thirdvision-with-blunt-objects_F6ZB7V79VUE5_jpg.rf.621f067c39333deec6e5986849ebedb7.jpg
+test/images/thirdvision-with-blunt-objects_gambar-10-_png.rf.0e4d94a28550507d1d8f792be975ee18.jpg
+test/images/thirdvision-with-blunt-objects_gambar-23-_jpg.rf.bc6e6d118cf577ff741d7751ba77b084.jpg
+test/images/thirdvision-with-blunt-objects_gambar-25-_png.rf.e8f0bed7403f2c57e2a9a41025259653.jpg
+test/images/thirdvision-with-blunt-objects_gambar-52-_JPG.rf.50110ffefc98a96b1366771ea7efc889.jpg
+test/images/thirdvision-with-blunt-objects_gambar-64-_jpg.rf.e45bbe65a0f44a59a90958841ebc5732.jpg
+test/images/thirdvision-with-blunt-objects_gambar-66-_jpg.rf.f6a2cc7cbcdb7f5d452b1a5d1c69750f.jpg
+test/images/thirdvision-with-blunt-objects_gambar-68-_jpg.rf.873c5c0e595006d3fe886182c49609f1.jpg
+test/images/thirdvision-with-blunt-objects_gambar-71-_JPG.rf.4a15888d9584f364a8eb784cb90b8f80.jpg
+test/images/thirdvision-with-blunt-objects_gambar-77-_jpg.rf.3cd0f46f8dba6a7b2823ee77eedb180b.jpg
+test/images/thirdvision-with-blunt-objects_gambar-80-_jpg.rf.0e98180cfe337464bd653df88a90b6c3.jpg
+test/images/thirdvision-with-blunt-objects_glock-pistol-images_5_jpeg.rf.9a2e606f78997fed28419801d2b1ed49.jpg
+test/images/thirdvision-with-blunt-objects_Hammer-1048-_jpg.rf.70d0c863b0c984c6f300e4f300f11747.jpg
+test/images/thirdvision-with-blunt-objects_Hammer-1098-_jpg.rf.4f0ecf9c67e1bf643a7afdf5a0061e86.jpg
+test/images/thirdvision-with-blunt-objects_Hammer-1112-_jpg.rf.9efb74ecc5fdc13ff3b710ad9b93b63e.jpg
+test/images/thirdvision-with-blunt-objects_hammer-1483-_jpg.rf.c23e741865ce11663548e6dab19a2d8f.jpg
+test/images/thirdvision-with-blunt-objects_hammer-1509-_jpg.rf.ef01dbd8dcf89ce8bb42a119b0adbad8.jpg
+test/images/thirdvision-with-blunt-objects_hammer-1675-_jpg.rf.7e708cf3d7e49ceb55d08730674fa2cd.jpg
+test/images/thirdvision-with-blunt-objects_hammer-2310-_jpg.rf.e47d04cc4188cdeb3ae321a76fc33755.jpg
+test/images/thirdvision-with-blunt-objects_HelloIMG1648042267663_jpeg.rf.798bdef24a18d8ca1de4e3a77ee3ebd9.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00016_00001_jpg.rf.88d624a87586fcf4000cfe6b6c0bf8a3.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00054_jpg.rf.3bb9ca8a879925f4102b802a34b6ac4b.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00056_jpg.rf.f1f9cb11cdcafe075071d5a2cd74393e.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00062_jpg.rf.cf005efeedecda7a74e1edacf03ef255.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00100_jpg.rf.65bfdebe4dafa96916d18ac30e267421.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00143_jpg.rf.4da621dc37519db010a8e23403c641e1.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00152_jpg.rf.36da590968f3bb33062652becb6cf084.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00158_jpg.rf.533a03326fdd6d13e99fdf7cdbe67c81.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00180_jpg.rf.445483d8886ff45b0bdefe16b456c4b9.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00191_00001_jpg.rf.5f6e3b91fc29df50816d24e256ddb2f3.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00248_jpg.rf.1b4396e78580661744a28e8b89c00060.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00293_jpg.rf.32d3397c4ef84cb78b3b9d97cb65b275.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00345_00001_jpg.rf.46ae88e9a5606aec4e087014c102d992.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00348_jpg.rf.355bcab724cafe247feb31b40e4b9e3b.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00359_jpg.rf.76e96c42520bee8a728f28150faf3b99.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00401_jpg.rf.76eebccf1c66020de80f69b86d77eade.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00426_jpg.rf.b9075edb801cb3a5e80699e9d5911bd4.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00431_jpg.rf.3c155949c359a3c36ae063c364745669.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00468_00001_jpg.rf.d1234dd5b9402e79d88ad2d393a1097a.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00540_00001_jpg.rf.ff4b3cade66f2a16e296eea104f00dba.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00593_jpg.rf.685d2f9563e0ae0ee2fe192f12f161ea.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00662_jpg.rf.c3c92ddc82515808c9d1dd83bfc64218.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00670_00001_jpg.rf.b8647dd2d9268882d422d8ee6f418a1d.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00759_00001_jpg.rf.07ff37fe3cf535566ee32e40ad827c8b.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00883_00001_jpg.rf.58549b8e5984e50d0bfc9ed914ecf28e.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_00893_jpg.rf.b8e81f63056c9e4623980967e1487813.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01161_jpg.rf.aeeff8c167f7c4e527cac2ce654efbb2.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01171_jpg.rf.d27f8065ce5a256e3fd589a4dbe932d0.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01206_jpg.rf.9569319b4f1818540ddb5bcf6ead4b20.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01318_jpg.rf.0bb9623126bac1edb933658c388554e0.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01326_jpg.rf.6c2de25da934e5f2dd44320a00277456.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01341_jpg.rf.5bb6d8f3cf0c8ce3d4faf4d0689be96f.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01410_00001_jpg.rf.6a5a483996467af5d49076a18f80a9c7.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01428_00001_jpg.rf.973a6991c09fba17a9af93722a925edb.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01525_jpg.rf.c1466b0fda732600c8eebe6b0a983489.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01559_jpg.rf.e07e5cc84dc5e3b9f0b3b3bcadba9ac3.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01595_00001_jpg.rf.264ef5963ca800d2c5424ca3ac23753e.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01668_jpg.rf.0cf37e1dd3bb58e5d3ff7753fd03a107.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01689_jpg.rf.9b4c8ed5f48a370b603c683b6408b7d7.jpg
+test/images/thirdvision-with-blunt-objects_IcePick_01739_jpg.rf.612cedeaba6dee08f825450cf187b5c5.jpg
+test/images/thirdvision-with-blunt-objects_image30_jpeg.rf.7432b963f2ba3d2daf836a8f60a5b089.jpg
+test/images/thirdvision-with-blunt-objects_images-10-_jpg.rf.f4c06ccc7a8f3cd6e3ada1dd1abccfa4.jpg
+test/images/thirdvision-with-blunt-objects_images-11-_jpg.rf.a5800560021566e162df56b2101c000f.jpg
+test/images/thirdvision-with-blunt-objects_images-12-_jpg.rf.764c4b57aaec2eab58c6e77a5e60eb73.jpg
+test/images/thirdvision-with-blunt-objects_images-24-_jpg.rf.734053b31ae4087faedc0c29128869b8.jpg
+test/images/thirdvision-with-blunt-objects_images-25-_jpg.rf.8cf9a9deeb33e9a923804033390c60df.jpg
+test/images/thirdvision-with-blunt-objects_images-25-_jpg.rf.b6cfaed772cfd57b2ce70490ab871f3c.jpg
+test/images/thirdvision-with-blunt-objects_images-28-_jpg.rf.4e422b77755482212d46a27c1ca7d8f6.jpg
+test/images/thirdvision-with-blunt-objects_images-32-_jpg.rf.d50cf7f43b9a36b77b18ec1a606c0b9c.jpg
+test/images/thirdvision-with-blunt-objects_images-37-_jpg.rf.ba12787a6ab0a7f319875f69c7caa424.jpg
+test/images/thirdvision-with-blunt-objects_images-4-_jpg.rf.b9ccb128639706ad3211c49748e056b8.jpg
+test/images/thirdvision-with-blunt-objects_images-6-_jpg.rf.e05c52a0af6c883bf274eb237aa7a1fa.jpg
+test/images/thirdvision-with-blunt-objects_images-8-_jpg.rf.480a7a7e85c0708f0d10f845dd299b59.jpg
+test/images/thirdvision-with-blunt-objects_images-of-pistol-in-hand-transparent_40_jpeg.rf.d36427f74e8c6195e1af3151c01aed77.jpg
+test/images/thirdvision-with-blunt-objects_images591_jpg.rf.a138f42bd0f233e9bb87be5dca6daf8d.jpg
+test/images/thirdvision-with-blunt-objects_images_jpg.rf.7c6bafe138602ce0cfb7d63fc898bf0d.jpg
+test/images/thirdvision-with-blunt-objects_IPSJAN65H2ZD_jpg.rf.ee336ad7a73c56a6549f70a7ac649af7.jpg
+test/images/thirdvision-with-blunt-objects_JJJ8FGTW99M0_jpg.rf.a406d275e09a52283b37499ec7d9d52a.jpg
+test/images/thirdvision-with-blunt-objects_knife_1044_jpg.rf.76ad53c3ff98679e1508b00528a10db9.jpg
+test/images/thirdvision-with-blunt-objects_knife_1135_jpg.rf.22489f6b8e437085f0a22eeed8044356.jpg
+test/images/thirdvision-with-blunt-objects_knife_322_jpg.rf.ef80bc3e6f9ba0b8d3fb97ae13a3ff5b.jpg
+test/images/thirdvision-with-blunt-objects_knife_381_jpg.rf.0aa83c675783a16d341cb574b7b97d73.jpg
+test/images/thirdvision-with-blunt-objects_knife_402_jpg.rf.23f9b5c0a884afc733597e24113fe402.jpg
+test/images/thirdvision-with-blunt-objects_knife_444_jpg.rf.82c1431c7338c151abf92bd2d5b8e80f.jpg
+test/images/thirdvision-with-blunt-objects_knife_493_jpg.rf.28d4eaf9a48862518b413332589588b0.jpg
+test/images/thirdvision-with-blunt-objects_knife_610_jpg.rf.985be6e4aef97b8ccab71f8efe16ae08.jpg
+test/images/thirdvision-with-blunt-objects_KravMagaKnifeDefenseTechniques114_jpg.rf.498a9a7d3b7106f5bddae4273ef8d4c7.jpg
+test/images/thirdvision-with-blunt-objects_KravMagaKnifeDefenseTechniques169_jpg.rf.e364bace339f89e46da4e6eae35fad6b.jpg
+test/images/thirdvision-with-blunt-objects_L5YRZBOZKT8W_jpg.rf.bf2ee23affcfbbae4094695d66827931.jpg
+test/images/thirdvision-with-blunt-objects_long-knife_mp4-0006_jpg.rf.4eae19f6dd96b3dd790c7ec581b0a8ec.jpg
+test/images/thirdvision-with-blunt-objects_long-knife_mp4-0023_jpg.rf.1fc7db864cea7af559bf770074f74c83.jpg
+test/images/thirdvision-with-blunt-objects_long-knife_mp4-0077_jpg.rf.fa9fc278556e2d9a7177cf2b49d509d2.jpg
+test/images/thirdvision-with-blunt-objects_long-knife_mp4-0079_jpg.rf.d5c8f897c02649f635201aff07f36725.jpg
+test/images/thirdvision-with-blunt-objects_long-knife_mp4-0104_jpg.rf.8f79dedbbd96fc08eff7eac886e1a30c.jpg
+test/images/thirdvision-with-blunt-objects_LXETPURAF205_jpg.rf.9fde57d6f6b36b096d7239b3fd2e5fb6.jpg
+test/images/thirdvision-with-blunt-objects_martelo11_jpg.rf.6736827d41ea6bdcfed981d31b9273b2.jpg
+test/images/thirdvision-with-blunt-objects_martelo184_jpg.rf.b66be26477f7e135311cabdc433a5501.jpg
+test/images/thirdvision-with-blunt-objects_martelo218_jpg.rf.a18dbab1d4864f3131c8b1fc4abdc8b5.jpg
+test/images/thirdvision-with-blunt-objects_martelo342_jpg.rf.5b6b396c47e442bb7481d451c5f285e7.jpg
+test/images/thirdvision-with-blunt-objects_martelo387_jpg.rf.9274c0646297dd60177cb79ac5522a3f.jpg
+test/images/thirdvision-with-blunt-objects_martelo540_jpg.rf.3340528aa549a3f5794bfb10efb852a3.jpg
+test/images/thirdvision-with-blunt-objects_martelo783_jpg.rf.d0ebb7339a34a9032b5bd5a79ccad055.jpg
+test/images/thirdvision-with-blunt-objects_marteloA13_jpg.rf.0a893a1959e24f152d3c5fd91349a8be.jpg
+test/images/thirdvision-with-blunt-objects_marteloA185_jpg.rf.c6aaf52a0a0478cb4d6734b71ba82a97.jpg
+test/images/thirdvision-with-blunt-objects_marteloB100_jpg.rf.9dabbccd3a19f46a41c856202d7dea23.jpg
+test/images/thirdvision-with-blunt-objects_marteloB103_jpg.rf.48ebc2e1ba874283d29c81b850c661dc.jpg
+test/images/thirdvision-with-blunt-objects_marteloB117_jpg.rf.65677906bdb0b22fca4a9ed26fd8efbc.jpg
+test/images/thirdvision-with-blunt-objects_marteloB129_jpg.rf.973c036d785043bbd9061bb06e4fa0ef.jpg
+test/images/thirdvision-with-blunt-objects_marteloC355_jpg.rf.bede38fc6257451ded2295a39eaefc3b.jpg
+test/images/thirdvision-with-blunt-objects_marteloC433_jpg.rf.36d366b8b134f0e035b5de6980d287dd.jpg
+test/images/thirdvision-with-blunt-objects_marteloC631_jpg.rf.5d7a84943ebe8b1c54f8c7af1f24ebdc.jpg
+test/images/thirdvision-with-blunt-objects_MBsframe00343_jpg.rf.b7891994ebc71de230325eae24fb9504.jpg
+test/images/thirdvision-with-blunt-objects_OIP-1-_jpeg.rf.4ab87532a3556d18ada14a727d0f1f8a.jpg
+test/images/thirdvision-with-blunt-objects_OIP-33-_jpg.rf.76f35b0bd06be9110a92b966ad5b018d.jpg
+test/images/thirdvision-with-blunt-objects_OIP-40-_jpg.rf.99a17f1540219c9dd1812111a919c466.jpg
+test/images/thirdvision-with-blunt-objects_OIP-42-_jpg.rf.3005ea66de724134de42758e9c58ea52.jpg
+test/images/thirdvision-with-blunt-objects_OIP-50-_jpg.rf.9162f7213fa6d6a06dab72d08da35f31.jpg
+test/images/thirdvision-with-blunt-objects_OIP-51-_jpg.rf.33908496daa8f851f4913089ac3df804.jpg
+test/images/thirdvision-with-blunt-objects_OIP-54-_jpg.rf.51b6bafbbc99f0f828b307852614f770.jpg
+test/images/thirdvision-with-blunt-objects_OIP-59-_jpg.rf.2db61cb226e749d5a7668e45109654e6.jpg
+test/images/thirdvision-with-blunt-objects_OIP-61-_jpg.rf.d150d01d43089c6079d04934057e7bd5.jpg
+test/images/thirdvision-with-blunt-objects_OIP-65-_jpg.rf.5661eb1b9bc6909c49c99c38d98e16a3.jpg
+test/images/thirdvision-with-blunt-objects_OIP-9-_jpeg.rf.20332fb76f5ad0cc8528aefbb1e0f6d9.jpg
+test/images/thirdvision-with-blunt-objects_OV5EV3M97QCY_jpg.rf.6c472ce3ef03183e61ddf603bdc09fd2.jpg
+test/images/thirdvision-with-blunt-objects_P1XM5C107FJX_jpg.rf.7049196f621a6ef638f729184b091748.jpg
+test/images/thirdvision-with-blunt-objects_pistol-gun-hd-images_169_png.rf.7962809f893472f71a713ace838dfd94.jpg
+test/images/thirdvision-with-blunt-objects_pistola1_jpg.rf.a94473acb9346054573ad16f4ddbc3cd.jpg
+test/images/thirdvision-with-blunt-objects_pistola28_jpg.rf.ec4f38319cb2f9d512bbf2b40cec0c30.jpg
+test/images/thirdvision-with-blunt-objects_pistola29_jpg.rf.ec40a9b913faa173e1bb54d278c76b52.jpg
+test/images/thirdvision-with-blunt-objects_rgb-0000011_jpg.rf.7e1413db65860c169496d0d98fc2abda.jpg
+test/images/thirdvision-with-blunt-objects_rgb-0000016_jpg.rf.0b847688f94cc60cd0daed705a147582.jpg
+test/images/thirdvision-with-blunt-objects_rgb-000001_jpg.rf.da2d836aad11b39c821d680d02e373fb.jpg
+test/images/thirdvision-with-blunt-objects_rgb-0000026_jpg.rf.f746c0638e0998a2bf142b43ddaa965b.jpg
+test/images/thirdvision-with-blunt-objects_rgb-000002_jpg.rf.b9aa32c1ecbf3dd5d1bb8b4b3a1128c7.jpg
+test/images/thirdvision-with-blunt-objects_rgb-0000050_jpg.rf.10297c8670cca54abe8605d79b65636a.jpg
+test/images/thirdvision-with-blunt-objects_rgb-0000063_jpg.rf.546717b4f12a6fc62991cdf3e195299d.jpg
+test/images/thirdvision-with-blunt-objects_rgb-000008_jpg.rf.2fd770cca3ee1d51fcb702e2c38d2df3.jpg
+test/images/thirdvision-with-blunt-objects_RLHWH0ZKPH6Q_jpg.rf.8b09f7959f02f80f1adcf3c284fa8fd7.jpg
+test/images/thirdvision-with-blunt-objects_RLLQY4JGXBOY_jpg.rf.9819578fca6eaf70e604646bb83c5f38.jpg
+test/images/thirdvision-with-blunt-objects_SMG_49_jpg.rf.db2c342644a7a16b8104dc3dd4538261.jpg
+test/images/thirdvision-with-blunt-objects_T9DYSC0JP7QV_jpg.rf.e74b30fbff85ecfebb1a0f0228046d2c.jpg
+test/images/thirdvision-with-blunt-objects_W4EKW6UZOQJ6_jpg.rf.aae91f452ed24c29b8c393e5040b03ae.jpg
+test/images/thirdvision-with-blunt-objects_XA8FU1TX3QES_jpg.rf.29381007129bb1f9c0df836842487033.jpg
+test/images/thirdvision-with-blunt-objects_XUYGIQ9VMA65_jpg.rf.18d06b79431e2d8c99458c11d4bd55c8.jpg
+test/images/thirdvision-with-blunt-objects_youtube-180_jpg.rf.cfd49ccf65ef306cba2e62d356f32b12.jpg
+test/images/thirdvision-with-blunt-objects_youtube-248_jpg.rf.24c3636f184909bdc2952480911dae0e.jpg
+test/images/thirdvision-with-blunt-objects_youtube-301_jpg.rf.550627d4bea4e69a27c9f039834559c8.jpg
+test/images/thirdvision-with-blunt-objects_ZC5MCZ1TENFO_jpg.rf.33fb09d63cd78e9d30a2ced49e94d5b3.jpg
+test/images/thirdvision-with-blunt-objects_ZFQ7GCWZAMS1_jpg.rf.dcf985e7a09a2b688636316aa65c1192.jpg

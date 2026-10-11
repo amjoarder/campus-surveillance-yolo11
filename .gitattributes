@@ -1,0 +1,2 @@
+# Preserve original source, CSV and evidence bytes across Windows/cloud checkouts.
+* -text

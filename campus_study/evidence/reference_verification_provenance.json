@@ -1,0 +1,44 @@
+{
+  "reviewed_utc": "2026-10-11T18:03:33.568376+00:00",
+  "prior_metadata_sources": {
+    "final_reference_metadata.json": "3271d1d58ae1c5d79fa41b621e58c057f3c42b4cd6c08de6cf612c47315e9edc",
+    "expanded_reference_verification.json": "ebcb7efbf5f1a6b23c5086aac6f9ff375fab30be57bec7f3323fdbe33e12aa60"
+  },
+  "note": "Prior metadata audits reused; all 52 citation keys checked against the rendered bibliography. Relevant recent and integration references rechecked against primary publisher/index pages on 11 October 2026. Not a claim that every source was freshly reread online.",
+  "primary_sources_rechecked": {
+    "fusion2023": [
+      "https://www.mdpi.com/1424-8220/23/12/5610",
+      "https://pubmed.ncbi.nlm.nih.gov/37420776/"
+    ],
+    "tran2026": [
+      "https://onlinelibrary.wiley.com/doi/10.1002/cpe.70811"
+    ],
+    "salman2026": [
+      "https://www.iieta.org/journals/ijsse/paper/10.18280/ijsse.160613"
+    ],
+    "cbamweapon2026": [
+      "https://link.springer.com/article/10.1007/s10791-026-10376-7"
+    ],
+    "campusbehavior": [
+      "https://universe.roboflow.com/hello-iorxu/violent-behavior-detection/dataset/1"
+    ],
+    "pdgv2026": [
+      "https://www.mdpi.com/1424-8220/26/5/1542",
+      "https://pubmed.ncbi.nlm.nih.gov/41829504/"
+    ],
+    "cvidnet2025": [
+      "https://journal.hcmue.edu.vn/index.php/hcmuejos/article/view/4699?lang=en_US"
+    ]
+  },
+  "dataset_provenance": "Object v3 and third-party v6 descriptions and counts primarily verified against the local exports/README files.",
+  "release_review_20261012": {
+    "bibliography_entries": 54,
+    "recent_primary_sources_rechecked": [
+      "https://link.springer.com/article/10.1007/s10791-026-10376-7",
+      "https://www.nature.com/articles/s41598-026-44939-x",
+      "https://www.sciencedirect.com/science/article/abs/pii/S1568494626011051"
+    ],
+    "journal_guidelines": "https://link.springer.com/journal/11042/submission-guidelines",
+    "scope": "Prior metadata audits plus current checks of recent additions; not a fresh full-text rereading of all references."
+  }
+}

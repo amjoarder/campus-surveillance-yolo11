@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this research companion release; the associated manuscript is unpublished."
+title: "Campus surveillance with object detection and aggression localization"
+type: software
+version: 1.0.0
+date-released: 2026-10-12
+url: https://github.com/amjoarder/campus-surveillance-yolo11
+authors:
+  - family-names: Joarder
+    given-names: Ajmain Muhtady
+  - family-names: Moyury
+    given-names: Zannatul Tasmia
+  - family-names: Al Mahmud
+    given-names: Jubayer
+  - family-names: Hossain
+    given-names: Md. Alam
+  - family-names: Mridha
+    given-names: M. F.

@@ -1,0 +1,15 @@
+{
+  "date": "2026-10-03",
+  "test_original": 430,
+  "test_retained": 425,
+  "test_excluded": 5,
+  "excluded_paths": [
+    "test/images/thirdvision-with-blunt-objects_armas-12-_jpg.rf.375ae2dfb09f5bc49b3563fd07e2886d.jpg",
+    "test/images/thirdvision-with-blunt-objects_IcePick_01656_jpg.rf.5d4fc3f73d6460530b7b9f144c0bd74f.jpg",
+    "test/images/thirdvision-with-blunt-objects_IcePick_01658_jpg.rf.3b2e3a62c64d4a6a3e743afd66ca163d.jpg",
+    "test/images/thirdvision-with-blunt-objects_IcePick_01660_jpg.rf.002aa29abac93b670d6d6279065590d3.jpg",
+    "test/images/thirdvision-with-blunt-objects_IcePick_01677_jpg.rf.c962dbed2bf3ec78b670487ca2e6a37c.jpg"
+  ],
+  "criterion": "Exact decoded RGB pixels and dimensions disjoint from recovered train and validation images. Not proof of source independence.",
+  "manifest_sha256": "ba73b6ffeb80995f43564a80580fa3cd15ac5c8d83605bd258a0da155aecbd63"
+}

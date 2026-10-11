@@ -1,0 +1,28 @@
+{
+  "ajmain": {
+    "source": "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Defense\\AJMAIN\\Ajmain (7).pdf",
+    "sha256": "8f592d521191b02db952b3898f5fa2781ea752215e73218ba69918b1cfe76db2",
+    "bytes": 3723218,
+    "pages": 86,
+    "characters": 149337
+  },
+  "tasmia": {
+    "source": "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Defense\\Tasmia\\Tasmia (5).pdf",
+    "sha256": "6a54bfd76e65638a0867e18a425b97574800eb413cc1920550c233e44bb5dd94",
+    "bytes": 6226643,
+    "pages": 90,
+    "characters": 124386
+  },
+  "conference_presentation": {
+    "path": "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Conference NCCIA 2025 JUST\\190127_JOARDER.pptx",
+    "sha256": "c1557db94f8788806284926132b8e8eee8c238db815df085d8e1703b76979ebb",
+    "bytes": 103980892,
+    "slides": 53
+  },
+  "conference_pdf": {
+    "path": "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Conference NCCIA 2025 JUST\\190127_JOARDER.pdf",
+    "sha256": "fe058b804b196c40072edcbba2db994eee0942e3e656d53dab994f69a6f9fd04",
+    "bytes": 6344893,
+    "pages": 53
+  }
+}

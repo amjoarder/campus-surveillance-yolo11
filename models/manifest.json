@@ -1,0 +1,20 @@
+[
+  {
+    "branch": "object",
+    "release_filename": "object_best.pt",
+    "original_relative_path": "object_detection/best.pt",
+    "bytes": 51253202,
+    "sha256": "928fa380e809701d5dd96728c8da3cf4d928d53c8a800b2cd499f3c11102d936",
+    "trained_model": "YOLO11L",
+    "loaded_or_executed_during_packaging": false
+  },
+  {
+    "branch": "behavior",
+    "release_filename": "behavior_best.pt",
+    "original_relative_path": "behavior_detection/best.pt",
+    "bytes": 51250322,
+    "sha256": "e456a7f466700defeebe2df845b72a76a0e9545d575978f29b8168671ac4ec58",
+    "trained_model": "YOLO11L",
+    "loaded_or_executed_during_packaging": false
+  }
+]

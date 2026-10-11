@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-03",
+  "scope": "New evaluation on the same pixel-disjoint recovered test images, after per-row annotation normalization. Not a retrained model or a source-independent external test.",
+  "annotation_policy": {
+    "preserved_box_rows": 457,
+    "polygon_rows_converted": 62,
+    "method": "Preserve five-field YOLO box rows; convert each polygon independently to its min/max enclosing axis-aligned box. Originals are unchanged. This avoids the pinned loader treating box rows as two-vertex polygons in mixed-format files."
+  },
+  "results": {
+    "metrics/precision(B)": 0.7765117640414954,
+    "metrics/recall(B)": 0.745779578794082,
+    "metrics/mAP50(B)": 0.7883982781116657,
+    "metrics/mAP50-95(B)": 0.5574603606372741,
+    "fitness": 0.5805541523847133
+  },
+  "speed_ms_per_image": {
+    "preprocess": 0.5675592941492248,
+    "inference": 59.53087858825764,
+    "loss": 0.007981882333885606,
+    "postprocess": 3.281014352901633
+  },
+  "per_class": [
+    {
+      "class_id": 0,
+      "class_name": "baseball bat",
+      "precision": 0.9023105966824884,
+      "recall": 0.8936170212765957,
+      "AP50": 0.9314932594632956,
+      "AP50_95": 0.7800108990856277
+    },
+    {
+      "class_id": 1,
+      "class_name": "cricket bat",
+      "precision": 0.8400730380860431,
+      "recall": 0.625,
+      "AP50": 0.7478011816654614,
+      "AP50_95": 0.5428526735682179
+    },
+    {
+      "class_id": 2,
+      "class_name": "crow bar",
+      "precision": 0.8642567933132814,
+      "recall": 0.8620689655172413,
+      "AP50": 0.9075649469005069,
+      "AP50_95": 0.6709530177363301
+    },
+    {
+      "class_id": 3,
+      "class_name": "hammer",
+      "precision": 0.6977529670131923,
+      "recall": 0.6002286362907074,
+      "AP50": 0.7134371620560845,
+      "AP50_95": 0.42674641511295164
+    },
+    {
+      "class_id": 4,
+      "class_name": "ice pick",
+      "precision": 0.8065604508552832,
+      "recall": 0.8604266350386692,
+      "AP50": 0.8927487468077366,
+      "AP50_95": 0.7598464408429557
+    },
+    {
+      "class_id": 5,
+      "class_name": "long knife",
+      "precision": 0.8130100369388606,
+      "recall": 0.7457627118644068,
+      "AP50": 0.7937753272513476,
+      "AP50_95": 0.5407930992868198
+    },
+    {
+      "class_id": 6,
+      "class_name": "pistol",
+      "precision": 0.7393466224947026,
+      "recall": 0.6829048790769537,
+      "AP50": 0.7047566611967883,
+      "AP50_95": 0.5055169722618629
+    },
+    {
+      "class_id": 7,
+      "class_name": "pocket-knife",
+      "precision": 0.6825492513045217,
+      "recall": 0.7525848528267017,
+      "AP50": 0.7677456666429643,
+      "AP50_95": 0.43033908961182066
+    },
+    {
+      "class_id": 8,
+      "class_name": "rifle",
+      "precision": 0.8009785999397688,
+      "recall": 0.8813559322033898,
+      "AP50": 0.8890874506131694,
+      "AP50_95": 0.6034595272038658
+    },
+    {
+      "class_id": 9,
+      "class_name": "stick",
+      "precision": 0.6182792837868112,
+      "recall": 0.5538461538461539,
+      "AP50": 0.5355723785193017,
+      "AP50_95": 0.314085471662289
+    }
+  ],
+  "runtime": {
+    "python": "3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:20:11) [MSC v.1938 64 bit (AMD64)]",
+    "torch": "2.6.0+cu124",
+    "ultralytics": "8.3.116",
+    "numpy": "1.26.4",
+    "cuda": "12.4",
+    "gpu": "NVIDIA GeForce GTX 1650 Ti with Max-Q Design"
+  },
+  "evaluation_settings": {
+    "split": "test",
+    "imgsz": 640,
+    "batch": 2,
+    "conf": 0.001,
+    "nms_iou": 0.7,
+    "max_det": 300,
+    "half": false,
+    "rect": true,
+    "augment": false
+  },
+  "dataset_filter": {
+    "date": "2026-10-03",
+    "test_original": 430,
+    "test_retained": 425,
+    "test_excluded": 5,
+    "excluded_paths": [
+      "test/images/thirdvision-with-blunt-objects_armas-12-_jpg.rf.375ae2dfb09f5bc49b3563fd07e2886d.jpg",
+      "test/images/thirdvision-with-blunt-objects_IcePick_01656_jpg.rf.5d4fc3f73d6460530b7b9f144c0bd74f.jpg",
+      "test/images/thirdvision-with-blunt-objects_IcePick_01658_jpg.rf.3b2e3a62c64d4a6a3e743afd66ca163d.jpg",
+      "test/images/thirdvision-with-blunt-objects_IcePick_01660_jpg.rf.002aa29abac93b670d6d6279065590d3.jpg",
+      "test/images/thirdvision-with-blunt-objects_IcePick_01677_jpg.rf.c962dbed2bf3ec78b670487ca2e6a37c.jpg"
+    ],
+    "criterion": "Exact decoded RGB pixels and dimensions disjoint from recovered train and validation images. Not proof of source independence.",
+    "manifest_sha256": "ba73b6ffeb80995f43564a80580fa3cd15ac5c8d83605bd258a0da155aecbd63"
+  }
+}

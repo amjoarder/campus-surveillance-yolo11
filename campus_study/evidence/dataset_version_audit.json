@@ -1,0 +1,294 @@
+{
+  "folders": {
+    "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Defense\\dataset\\Harmful Object Detection": {
+      "metadata": {
+        "data.yaml": "train: ../train/images\nval: ../valid/images\ntest: ../test/images\n\nnc: 5\nnames: ['cricket bat', 'hammer', 'pistol', 'pocket-knife', 'stick']\n\nroboflow:\n  workspace: hello-iorxu\n  project: harmful-object-detection\n  version: 3\n  license: CC BY 4.0\n  url: https://universe.roboflow.com/hello-iorxu/harmful-object-detection/dataset/3",
+        "README.dataset.txt": "# Harmful Object Detection > 2025-04-26 11:29pm\nhttps://universe.roboflow.com/hello-iorxu/harmful-object-detection\n\nProvided by a Roboflow user\nLicense: CC BY 4.0\n\n**Harmful Object Detection Dataset**\nThis dataset was developed to support research on detecting harmful objects in real-time surveillance scenarios, specifically within educational environments. All data was collected on the campus of Jashore University of Science and Technology (JUST), reflecting realistic public settings where potential threats might occur.\n\nEach image has been carefully annotated to ensure high-quality and reliable detection performance across varied lighting and environmental conditions.\n\nSpecial thanks to my juniors — *Siam, Shihab, Rokon, Rifat, Turzo, Joy and Nebir* — for their outstanding support in capturing and labeling the dataset. Their contribution played a vital role in bringing this work to life.\n\nThis dataset is intended to aid in building intelligent surveillance systems that promote a safer and more secure campus environment.",
+        "README.roboflow.txt": "\nHarmful Object Detection - v3 2025-04-26 11:29pm\n==============================\n\nThis dataset was exported via roboflow.com on April 26, 2025 at 5:30 PM GMT\n\nRoboflow is an end-to-end computer vision platform that helps you\n* collaborate with your team on computer vision projects\n* collect & organize images\n* understand and search unstructured image data\n* annotate, and create datasets\n* export, train, and deploy computer vision models\n* use active learning to improve your dataset over time\n\nFor state of the art Computer Vision training notebooks you can use with this dataset,\nvisit https://github.com/roboflow/notebooks\n\nTo find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com\n\nThe dataset includes 2457 images.\nHarmful-objects are annotated in YOLOv11 format.\n\nThe following pre-processing was applied to each image:\n* Auto-orientation of pixel data (with EXIF-orientation stripping)\n\nThe following augmentation was applied to create 3 versions of each source image:\n* 50% probability of horizontal flip\n* Randomly crop between 0 and 10 percent of the image\n* Random brigthness adjustment of between -10 and +10 percent\n* Random exposure adjustment of between -5 and +5 percent\n\n\n"
+      },
+      "splits": {
+        "train": {
+          "images": 2154,
+          "labels": 2154,
+          "empty_label_files": 658,
+          "box_class_counts": {
+            "0": 633,
+            "3": 273,
+            "1": 421,
+            "2": 210,
+            "4": 1382
+          },
+          "prefix_source_counts": {
+            "unspecified": 2154
+          },
+          "sample_names": [
+            "cricket_bat_001_jpg.rf.887005b714309a5cf31f27b8ed86e8c1.jpg",
+            "cricket_bat_001_jpg.rf.b162c0c7f7b9831ff8b0e2ad24483a00.jpg",
+            "cricket_bat_001_jpg.rf.e220ec6d4a6bf1062f87c172026f1729.jpg"
+          ]
+        },
+        "valid": {
+          "images": 200,
+          "labels": 200,
+          "empty_label_files": 68,
+          "box_class_counts": {
+            "0": 53,
+            "1": 40,
+            "3": 18,
+            "4": 125,
+            "2": 16
+          },
+          "prefix_source_counts": {
+            "unspecified": 200
+          },
+          "sample_names": [
+            "cricket_bat_005_jpg.rf.7a8418ccf8866730281e3370e4fe1bb0.jpg",
+            "cricket_bat_011_jpg.rf.e1c689c89800aa1b953c45abcb6ce51c.jpg",
+            "cricket_bat_016_jpg.rf.1f5a06c452af13bc9c4d6225dae271ca.jpg"
+          ]
+        },
+        "test": {
+          "images": 103,
+          "labels": 103,
+          "empty_label_files": 37,
+          "box_class_counts": {
+            "0": 24,
+            "4": 65,
+            "2": 11,
+            "1": 22,
+            "3": 5
+          },
+          "prefix_source_counts": {
+            "unspecified": 103
+          },
+          "sample_names": [
+            "cricket_bat_002_jpg.rf.93f014c59cd1800f16ac494853147966.jpg",
+            "cricket_bat_013_jpg.rf.b7c0b6ed0ff95bb27178952f608989ba.jpg",
+            "cricket_bat_030_jpg.rf.d51a32a961022b332e783b5909589fe6.jpg"
+          ]
+        }
+      }
+    },
+    "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Defense\\dataset\\thirdvision-with-blunt-objects": {
+      "metadata": {
+        "data.yaml": "train: ../train/images\nval: ../valid/images\ntest: ../test/images\n\nnc: 8\nnames: ['baseball bat', 'crow bar', 'hammer', 'ice pick', 'long knife', 'pistol', 'pocket-knife', 'rifle']\n\nroboflow:\n  workspace: try-6siwu\n  project: thirdvision-with-blunt-objects-without-sumpak\n  version: 6\n  license: CC BY 4.0\n  url: https://universe.roboflow.com/try-6siwu/thirdvision-with-blunt-objects-without-sumpak/dataset/6",
+        "README.dataset.txt": "# thirdvision-with-blunt-objects-without sumpak > 2025-03-10 8:09pm\nhttps://universe.roboflow.com/try-6siwu/thirdvision-with-blunt-objects-without-sumpak\n\nProvided by a Roboflow user\nLicense: CC BY 4.0\n\n",
+        "README.roboflow.txt": "\nthirdvision-with-blunt-objects-without sumpak - v6 2025-03-10 8:09pm\n==============================\n\nThis dataset was exported via roboflow.com on March 10, 2025 at 12:56 PM GMT\n\nRoboflow is an end-to-end computer vision platform that helps you\n* collaborate with your team on computer vision projects\n* collect & organize images\n* understand and search unstructured image data\n* annotate, and create datasets\n* export, train, and deploy computer vision models\n* use active learning to improve your dataset over time\n\nFor state of the art Computer Vision training notebooks you can use with this dataset,\nvisit https://github.com/roboflow/notebooks\n\nTo find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com\n\nThe dataset includes 9674 images.\nWeapon-0hVB-5tIT-s8sT are annotated in YOLOv11 format.\n\nThe following pre-processing was applied to each image:\n* Auto-orientation of pixel data (with EXIF-orientation stripping)\n* Resize to 640x640 (Fit within)\n* Auto-contrast via contrast stretching\n\nThe following augmentation was applied to create 3 versions of each source image:\n* 50% probability of horizontal flip\n* Equal probability of one of the following 90-degree rotations: none, clockwise, counter-clockwise, upside-down\n* Randomly crop between 0 and 20 percent of the image\n* Random rotation of between -15 and +15 degrees\n* Random shear of between -10° to +10° horizontally and -10° to +10° vertically\n* Random brigthness adjustment of between -20 and +20 percent\n* Random exposure adjustment of between -10 and +10 percent\n* Salt and pepper noise was applied to 0.1 percent of pixels\n\n\n"
+      },
+      "splits": {
+        "train": {
+          "images": 8312,
+          "labels": 8312,
+          "empty_label_files": 0,
+          "box_class_counts": {
+            "3": 1566,
+            "1": 1092,
+            "2": 1314,
+            "0": 1167,
+            "5": 1114,
+            "4": 1301,
+            "7": 1487,
+            "6": 1074
+          },
+          "prefix_source_counts": {
+            "unspecified": 8312
+          },
+          "sample_names": [
+            "-1-_jpg.rf.2986a63699c64a872edfba7f502eb067.jpg",
+            "-1-_jpg.rf.73942c0ea30234ca2d879cdb7303ac68.jpg",
+            "-1-_jpg.rf.8e1cc5f0d237d67c54c9b46299862bee.jpg"
+          ]
+        },
+        "valid": {
+          "images": 666,
+          "labels": 666,
+          "empty_label_files": 0,
+          "box_class_counts": {
+            "1": 101,
+            "3": 136,
+            "0": 114,
+            "2": 60,
+            "5": 99,
+            "4": 102,
+            "7": 115,
+            "6": 124
+          },
+          "prefix_source_counts": {
+            "unspecified": 666
+          },
+          "sample_names": [
+            "-102-_jpg.rf.caebb724afd3e72b2e3e429888fc3799.jpg",
+            "-103-_jpg.rf.1dfb29c88034499a300989f4da428885.jpg",
+            "-109-_jpg.rf.f50caa6df33ee91269ab0674a87c2cd0.jpg"
+          ]
+        },
+        "test": {
+          "images": 327,
+          "labels": 327,
+          "empty_label_files": 0,
+          "box_class_counts": {
+            "1": 58,
+            "3": 67,
+            "0": 47,
+            "2": 28,
+            "5": 44,
+            "6": 35,
+            "7": 59,
+            "4": 59
+          },
+          "prefix_source_counts": {
+            "unspecified": 327
+          },
+          "sample_names": [
+            "-183-_jpg.rf.c0b162ead1fceaacecd4efced7e78192.jpg",
+            "-186-_jpg.rf.c8b08fef01681cee0ecb6b98eaf1d39c.jpg",
+            "-211-_jpg.rf.6a5e5e742f9b78d0d012ebcd411488a4.jpg"
+          ]
+        }
+      }
+    },
+    "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Defense\\dataset\\merged_object_detection": {
+      "metadata": {
+        "data.yaml": "train: merged_object_detection/train\\images\nval: merged_object_detection/valid\\images\ntest: merged_object_detection/test\\images\n\nnc: 10\nnames: ['baseball bat', 'cricket bat', 'crow bar', 'hammer', 'ice pick', 'long knife', 'pistol', 'pocket-knife', 'rifle', 'stick']\n"
+      },
+      "splits": {
+        "train": {
+          "images": 10466,
+          "labels": 10466,
+          "empty_label_files": 658,
+          "box_class_counts": {
+            "1": 633,
+            "7": 1347,
+            "3": 1735,
+            "6": 1324,
+            "9": 1382,
+            "4": 1566,
+            "2": 1092,
+            "0": 1167,
+            "5": 1301,
+            "8": 1487
+          },
+          "prefix_source_counts": {
+            "author": 2154,
+            "third_party": 8312
+          },
+          "sample_names": [
+            "Harmful Object Detection_cricket_bat_001_jpg.rf.887005b714309a5cf31f27b8ed86e8c1.jpg",
+            "Harmful Object Detection_cricket_bat_001_jpg.rf.b162c0c7f7b9831ff8b0e2ad24483a00.jpg",
+            "Harmful Object Detection_cricket_bat_001_jpg.rf.e220ec6d4a6bf1062f87c172026f1729.jpg"
+          ]
+        },
+        "valid": {
+          "images": 866,
+          "labels": 866,
+          "empty_label_files": 68,
+          "box_class_counts": {
+            "1": 53,
+            "3": 100,
+            "7": 142,
+            "9": 125,
+            "6": 115,
+            "2": 101,
+            "4": 136,
+            "0": 114,
+            "5": 102,
+            "8": 115
+          },
+          "prefix_source_counts": {
+            "author": 200,
+            "third_party": 666
+          },
+          "sample_names": [
+            "Harmful Object Detection_cricket_bat_005_jpg.rf.7a8418ccf8866730281e3370e4fe1bb0.jpg",
+            "Harmful Object Detection_cricket_bat_011_jpg.rf.e1c689c89800aa1b953c45abcb6ce51c.jpg",
+            "Harmful Object Detection_cricket_bat_016_jpg.rf.1f5a06c452af13bc9c4d6225dae271ca.jpg"
+          ]
+        },
+        "test": {
+          "images": 430,
+          "labels": 430,
+          "empty_label_files": 37,
+          "box_class_counts": {
+            "1": 24,
+            "9": 65,
+            "6": 55,
+            "3": 50,
+            "7": 40,
+            "2": 58,
+            "4": 67,
+            "0": 47,
+            "8": 59,
+            "5": 59
+          },
+          "prefix_source_counts": {
+            "author": 103,
+            "third_party": 327
+          },
+          "sample_names": [
+            "Harmful Object Detection_cricket_bat_002_jpg.rf.93f014c59cd1800f16ac494853147966.jpg",
+            "Harmful Object Detection_cricket_bat_013_jpg.rf.b7c0b6ed0ff95bb27178952f608989ba.jpg",
+            "Harmful Object Detection_cricket_bat_030_jpg.rf.d51a32a961022b332e783b5909589fe6.jpg"
+          ]
+        }
+      }
+    }
+  },
+  "archives": {
+    "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Defense\\YOLOv11 Result\\train4\\yolov11.zip": {
+      "bytes": 95730883,
+      "file_count": 15,
+      "image_files": 9,
+      "first_files": [
+        "Knife Defense Won't Work Against A Skilled Attacker - Trim.aviZone.Identifier",
+        "labels.jpg",
+        "labels_correlogram.jpg",
+        "P_curve.png",
+        "PR_curve.png",
+        "R_curve.png",
+        "results.csv",
+        "results.png",
+        "weights/",
+        "weights/best.pt",
+        "weights/last.pt",
+        "args.yaml"
+      ],
+      "metadata": {
+        "args.yaml": "task: detect\nmode: train\nmodel: yolo11l.pt\ndata: data.yaml\nepochs: 1200\ntime: null\npatience: 300\nbatch: 16\nimgsz: 640\nsave: true\nsave_period: -1\ncache: false\ndevice: null\nworkers: 8\nproject: null\nname: train4\nexist_ok: false\npretrained: true\noptimizer: auto\nverbose: true\nseed: 0\ndeterministic: true\nsingle_cls: false\nrect: false\ncos_lr: true\nclose_mosaic: 10\nresume: false\namp: true\nfraction: 1.0\nprofile: false\nfreeze: 20\nmulti_scale: false\noverlap_mask: true\nmask_ratio: 4\ndropout: 0.0\nval: true\nsplit: val\nsave_json: false\nconf: null\niou: 0.7\nmax_det: 300\nhalf: false\ndnn: false\nplots: true\nsource: null\nvid_stride: 1\nstream_buffer: false\nvisualize: false\naugment: false\nagnostic_nms: false\nclasses: null\nretina_masks: false\nembed: null\nshow: false\nsave_frames: false\nsave_txt: false\nsave_conf: false\nsave_crop: false\nshow_labels: true\nshow_conf: true\nshow_boxes: true\nline_width: null\nformat: torchscript\nkeras: false\noptimize: false\nint8: false\ndynamic: false\nsimplify: true\nopset: null\nworkspace: null\nnms: false\nlr0: 0.01\nlrf: 0.01\nmomentum: 0.937\nweight_decay: 0.0005\nwarmup_epochs: 3.0\nwarmup_momentum: 0.8\nwarmup_bias_lr: 0.1\nbox: 7.5\ncls: 0.5\ndfl: 1.5\npose: 12.0\nkobj: 1.0\nnbs: 64\nhsv_h: 0.015\nhsv_s: 0.7\nhsv_v: 0.4\ndegrees: 0.0\ntranslate: 0.1\nscale: 0.5\nshear: 0.0\nperspective: 0.0\nflipud: 0.0\nfliplr: 0.5\nbgr: 0.0\nmosaic: 1.0\nmixup: 0.0\ncopy_paste: 0.0\ncopy_paste_mode: flip\nauto_augment: randaugment\nerasing: 0.4\ncfg: null\ntracker: botsort.yaml\nsave_dir: runs/detect/train4\n"
+      },
+      "sha256": "44e7a7d1e17e71ba0c9af9cf331994690f82d6687afc3f6e45d782a2ccfcb082"
+    },
+    "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Defense\\AJMAIN\\190127_JOARDER.zip": {
+      "bytes": 42439419,
+      "file_count": 1,
+      "image_files": 0,
+      "first_files": [
+        "190127_JOARDER.pptx"
+      ],
+      "metadata": {},
+      "sha256": "1011b27dade3a5d22ac70c8fd289b87063d2f9327dfc8c8004569504555e15ff"
+    },
+    "D:\\Study\\#Academic Semester Study\\Thesis\\THESIS Undergraduate\\Defense\\dataset\\merged_object_detection.zip": {
+      "bytes": 458404880,
+      "file_count": 23535,
+      "image_files": 11762,
+      "first_files": [
+        "merged_object_detection/",
+        "merged_object_detection/data.yaml",
+        "merged_object_detection/test/",
+        "merged_object_detection/test/images/",
+        "merged_object_detection/test/images/Harmful Object Detection_cricket_bat_002_jpg.rf.93f014c59cd1800f16ac494853147966.jpg",
+        "merged_object_detection/test/images/Harmful Object Detection_cricket_bat_013_jpg.rf.b7c0b6ed0ff95bb27178952f608989ba.jpg",
+        "merged_object_detection/test/images/Harmful Object Detection_cricket_bat_030_jpg.rf.d51a32a961022b332e783b5909589fe6.jpg",
+        "merged_object_detection/test/images/Harmful Object Detection_cricket_bat_048_jpg.rf.2e8527ef4a233643faf9f23c4194d016.jpg",
+        "merged_object_detection/test/images/Harmful Object Detection_cricket_bat_052_jpg.rf.1ba9c954131d78ce3a32a31117af2dad.jpg",
+        "merged_object_detection/test/images/Harmful Object Detection_IMG_20250412_135418_738_jpg.rf.fe54c64292dbe331f44481c90b1f2b44.jpg",
+        "merged_object_detection/test/images/Harmful Object Detection_IMG_20250412_135420_393_jpg.rf.14d590363155dd0b3bfdfa150eb7c02f.jpg",
+        "merged_object_detection/test/images/Harmful Object Detection_IMG_20250412_135526_801_jpg.rf.f74e6a612e2ff7d58999b11cae206071.jpg"
+      ],
+      "metadata": {
+        "merged_object_detection/data.yaml": "train: merged_object_detection/train\\images\r\nval: merged_object_detection/valid\\images\r\ntest: merged_object_detection/test\\images\r\n\r\nnc: 10\r\nnames: ['baseball bat', 'cricket bat', 'crow bar', 'hammer', 'ice pick', 'long knife', 'pistol', 'pocket-knife', 'rifle', 'stick']\r\n"
+      },
+      "sha256": "85f08a389da3385888bdfd7a5e8087cc26ca050c9f1c3d443a68946c76bc76ec"
+    }
+  }
+}

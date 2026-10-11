@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-03",
+  "method": "Direct visual transcription of the five author-supplied terminal screenshots; no OCR-derived facts were accepted without visual reading. Screenshots do not provide a complete environment lock or historical dataset hashes.",
+  "files": [
+    {
+      "original_path": "Object Detection Code/image_2025-04-27_14-21-41.png",
+      "copied_file": "training_screenshots/Object_Detection_Code_image_2025-04-27_14-21-41.png",
+      "sha256": "5e2fc1c8bf28f7208f52821d66c8fcebba29925c223332230926ecce0d8f7a19",
+      "bytes": 315294
+    },
+    {
+      "original_path": "Object Detection Code/image_2025-04-27_14-23-11.png",
+      "copied_file": "training_screenshots/Object_Detection_Code_image_2025-04-27_14-23-11.png",
+      "sha256": "83a72e4616ca15879c601d4959d443a4d149aaf6c35f9de0ea669e7aec3ea0bb",
+      "bytes": 331997
+    },
+    {
+      "original_path": "Object Detection Code/image_2025-04-27_14-24-12.png",
+      "copied_file": "training_screenshots/Object_Detection_Code_image_2025-04-27_14-24-12.png",
+      "sha256": "4b32162c4e226f0636081020c51cbc786c66a4f0ceef7ed7f0e51b65554d46f6",
+      "bytes": 16840
+    },
+    {
+      "original_path": "Violent Behavior Code/image_2025-04-26_12-28-13.png",
+      "copied_file": "training_screenshots/Violent_Behavior_Code_image_2025-04-26_12-28-13.png",
+      "sha256": "a58e01c8271519781127f925c576b748ebe7242ef0bf59b49c2ceccafd00ef52",
+      "bytes": 216723
+    },
+    {
+      "original_path": "Violent Behavior Code/image_2025-04-26_12-28-59.png",
+      "copied_file": "training_screenshots/Violent_Behavior_Code_image_2025-04-26_12-28-59.png",
+      "sha256": "435c165b7a3d7e17faa8bd333d904866053321e954e0727b0570b800acb2d543",
+      "bytes": 144924
+    }
+  ],
+  "both_runs": {
+    "ultralytics": "8.3.116",
+    "python": "3.10.17",
+    "torch": "2.6.0+cu124",
+    "GPU": "NVIDIA GeForce RTX 3080 Ti",
+    "GPU_memory_MiB": 12288,
+    "optimizer_selected": "SGD",
+    "learning_rate": 0.01,
+    "momentum": 0.9,
+    "weight_decay": 0.0005,
+    "batch": 16,
+    "imgsz": 640,
+    "dataloader_workers": 8,
+    "optimizer_argument": "auto"
+  },
+  "object": {
+    "run": "train3",
+    "command": "yolo detect train data=data.yaml model=yolo11l.pt epochs=1000 patience=200 freeze=20 cos_lr=True",
+    "train_images": 10466,
+    "validation_images": 866,
+    "train_boxes": 13034,
+    "validation_boxes": 1103,
+    "train_segment_count_warning": 1490,
+    "validation_segment_count_warning": 146,
+    "layers_before_fusion": 357,
+    "parameters": 25318190,
+    "GFLOPs_as_displayed": 87.3
+  },
+  "behavior": {
+    "run": "train4",
+    "command": "yolo detect train model=yolo11l.pt data=data.yaml epochs=1200 patience=300 freeze=20 cos_lr=True",
+    "train_images": 804,
+    "train_backgrounds": 382,
+    "validation_images": 230,
+    "validation_backgrounds": 128
+  },
+  "interpretation": "Actual optimizer selection and historical runtime versions are now corroborated, replacing previous uncertainty and manuscript-version inaccuracies. Train/validation image/background counts can support archive consistency, but do not prove a complete historical content match. Screenshot object mixed box/segment warnings corroborate the archive format issue."
+}

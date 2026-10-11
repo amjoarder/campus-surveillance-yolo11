@@ -1,0 +1,6 @@
+Total frames: 39
+Frames with violence: 38
+Frames with objects: 69
+Total object detections by class:
+  stick: 69
+Average FPS: 13.16

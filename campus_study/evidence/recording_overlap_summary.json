@@ -1,0 +1,24 @@
+{
+  "object": {
+    "recording_ids_by_split": {
+      "test": 32,
+      "train": 60,
+      "valid": 47
+    },
+    "test_ids_also_train": 31,
+    "valid_ids_also_train": 44,
+    "test_video_named_images": 56,
+    "test_video_named_images_from_train_recordings": 55
+  },
+  "behavior": {
+    "recording_ids_by_split": {
+      "test": 36,
+      "train": 61,
+      "valid": 49
+    },
+    "test_ids_also_train": 36,
+    "valid_ids_also_train": 49,
+    "test_video_named_images": 71,
+    "test_video_named_images_from_train_recordings": 71
+  }
+}

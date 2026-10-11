@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-03",
+  "checkpoint_sha256": "e456a7f466700defeebe2df845b72a76a0e9545d575978f29b8168671ac4ec58",
+  "dataset_audit": {
+    "date": "2026-10-03",
+    "archive_name": "Violent Behavior Detection.v1i.yolov11.zip",
+    "archive_bytes": 77110760,
+    "archive_sha256": "23736dcfd2b7304ac4667d059371990209f18415cc2c203f73c41a940c2fa746",
+    "original_yaml": "train: ../train/images\nval: ../valid/images\ntest: ../test/images\n\nnc: 1\nnames: ['violent']\n\nroboflow:\n  workspace: hello-iorxu\n  project: violent-behavior-detection\n  version: 1\n  license: CC BY 4.0\n  url: https://universe.roboflow.com/hello-iorxu/violent-behavior-detection/dataset/1",
+    "readmes": {
+      "README.dataset.txt": "# Violent Behavior Detection > 2025-04-25 4:24pm\nhttps://universe.roboflow.com/hello-iorxu/violent-behavior-detection\n\nProvided by a Roboflow user\nLicense: CC BY 4.0\n\n",
+      "README.roboflow.txt": "\nViolent Behavior Detection - v1 2025-04-25 4:24pm\n==============================\n\nThis dataset was exported via roboflow.com on April 25, 2025 at 2:46 PM GMT\n\nRoboflow is an end-to-end computer vision platform that helps you\n* collaborate with your team on computer vision projects\n* collect & organize images\n* understand and search unstructured image data\n* annotate, and create datasets\n* export, train, and deploy computer vision models\n* use active learning to improve your dataset over time\n\nFor state of the art Computer Vision training notebooks you can use with this dataset,\nvisit https://github.com/roboflow/notebooks\n\nTo find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com\n\nThe dataset includes 1149 images.\nViolent are annotated in YOLOv11 format.\n\nThe following pre-processing was applied to each image:\n* Auto-orientation of pixel data (with EXIF-orientation stripping)\n\nNo image augmentation techniques were applied.\n\n\n"
+    },
+    "splits": {
+      "train": {
+        "images": 804,
+        "label_files": 804,
+        "instances": 422,
+        "background_images": 382,
+        "formats": {
+          "box": 422
+        },
+        "mixed_format_files": [],
+        "within_split_duplicate_extra": 0,
+        "image_stems_missing_label": []
+      },
+      "valid": {
+        "images": 230,
+        "label_files": 230,
+        "instances": 102,
+        "background_images": 128,
+        "formats": {
+          "box": 102
+        },
+        "mixed_format_files": [],
+        "within_split_duplicate_extra": 0,
+        "image_stems_missing_label": []
+      },
+      "test": {
+        "images": 115,
+        "label_files": 115,
+        "instances": 69,
+        "background_images": 46,
+        "formats": {
+          "box": 69
+        },
+        "mixed_format_files": [],
+        "within_split_duplicate_extra": 0,
+        "image_stems_missing_label": []
+      }
+    },
+    "overlap": [
+      {
+        "splits": [
+          "train",
+          "valid"
+        ],
+        "byte_identical_hashes": 0,
+        "decoded_pixel_identical_hashes": 0,
+        "same_export_basename_groups": 0
+      },
+      {
+        "splits": [
+          "train",
+          "test"
+        ],
+        "byte_identical_hashes": 0,
+        "decoded_pixel_identical_hashes": 0,
+        "same_export_basename_groups": 0
+      },
+      {
+        "splits": [
+          "valid",
+          "test"
+        ],
+        "byte_identical_hashes": 0,
+        "decoded_pixel_identical_hashes": 0,
+        "same_export_basename_groups": 0
+      }
+    ],
+    "invalid_rows": [],
+    "test_retained": 115,
+    "test_excluded_paths": [],
+    "screenshot_consistency": {
+      "train_images_match_804": true,
+      "train_backgrounds_match_382": true,
+      "validation_images_match_230": true,
+      "validation_backgrounds_match_128": true
+    },
+    "dataset_identity_interpretation": "Image/background counts, class map, run name/config and package release support consistency with train4. No historical full-dataset hash/split manifest proves byte-identical membership. Roboflow export license is recorded metadata, not verification of underlying individual consent or image rights."
+  },
+  "evaluations": {
+    "val": {
+      "results": {
+        "metrics/precision(B)": 0.8994876446324612,
+        "metrics/recall(B)": 0.7156862745098039,
+        "metrics/mAP50(B)": 0.8742178262958987,
+        "metrics/mAP50-95(B)": 0.5296057479694298,
+        "fitness": 0.5640669558020768
+      },
+      "speed_ms_per_image": {
+        "preprocess": 1.289225217387075,
+        "inference": 10171.791743913009,
+        "loss": 0.011108695672073341,
+        "postprocess": 3.681259130509874
+      },
+      "per_class": [
+        {
+          "class_id": 0,
+          "precision": 0.8994876446324612,
+          "recall": 0.7156862745098039,
+          "AP50": 0.8742178262958987,
+          "AP50_95": 0.5296057479694298
+        }
+      ]
+    },
+    "test": {
+      "results": {
+        "metrics/precision(B)": 0.879569142842235,
+        "metrics/recall(B)": 0.7536231884057971,
+        "metrics/mAP50(B)": 0.8769494381520057,
+        "metrics/mAP50-95(B)": 0.5289732860285339,
+        "fitness": 0.563770901240881
+      },
+      "speed_ms_per_image": {
+        "preprocess": 1.4535121738963823,
+        "inference": 203.67789999993124,
+        "loss": 0.005126086951982554,
+        "postprocess": 1.406178260810481
+      },
+      "per_class": [
+        {
+          "class_id": 0,
+          "precision": 0.879569142842235,
+          "recall": 0.7536231884057971,
+          "AP50": 0.8769494381520057,
+          "AP50_95": 0.5289732860285339
+        }
+      ]
+    }
+  },
+  "settings": {
+    "imgsz": 640,
+    "batch": 2,
+    "workers": 0,
+    "conf": 0.001,
+    "nms_iou": 0.7,
+    "max_det": 300,
+    "FP32": true,
+    "rect": true,
+    "test_time_augmentation": false
+  },
+  "runtime": {
+    "python": "3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:20:11) [MSC v.1938 64 bit (AMD64)]",
+    "torch": "2.6.0+cu124",
+    "ultralytics": "8.3.116",
+    "numpy": "1.26.4",
+    "cuda": "12.4",
+    "gpu": "NVIDIA GeForce GTX 1650 Ti with Max-Q Design"
+  },
+  "limitation": "Recovered validation is used only for consistency checking, not new checkpoint selection. Test removes exact pixel overlap with recovered train/validation, but does not establish source/recording independence or joint-event correctness."
+}
