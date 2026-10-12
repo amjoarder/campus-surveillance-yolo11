@@ -22,7 +22,7 @@ Reported metrics are image-level localization measurements on the available task
 | [`models/`](models/) | Checkpoint hashes and retrieval instructions |
 | [`campus_study/`](campus_study/) | Image-level results, overlap audits and verification scripts |
 | [`tools/`](tools/) | Source integrity and cue-rule checks |
-| [`assets/system_architecture.svg`](assets/system_architecture.svg) | Author-supplied proposed system diagram |
+| [`assets/system_architecture.svg`](assets/system_architecture.svg) | Proposed system architecture diagram |
 
 ## Verification
 
