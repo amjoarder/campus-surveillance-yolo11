@@ -1,7 +1,9 @@
-# Original training record
+# Training records
 
-The two commands in `original_commands.txt` were visually transcribed from the original terminal screenshots. `screenshots/` preserves all five original files. `object/` and `behavior/` contain the original final-run arguments and CSV history. No standalone author training notebook/script was retained. The executable training implementation was the Ultralytics `yolo detect train` CLI; the pinned third-party source is https://github.com/ultralytics/ultralytics/tree/v8.3.116 .
+The two submitted detector checkpoints were fine-tuned with the Ultralytics 8.3.116 command-line interface. The training commands, screenshots, saved arguments and epoch histories are retained in this directory. No separate author-written training script was retained.
 
-Both runs: Python 3.10.17, Ultralytics 8.3.116, PyTorch 2.6.0+cu124, NVIDIA RTX 3080 Ti (12288 MiB), YOLO11L, imgsz=640, batch=16, seed=0, freeze=20, amp=True, cos_lr=True. `optimizer=auto` selected SGD(lr=0.01,momentum=0.9,weight_decay=0.0005), overriding the saved nominal momentum. Object training completed 669 epochs and selected epoch 469; behavior completed 489 and selected epoch 189. Fitness was 0.1*AP50+0.9*AP50:95. Planned epoch limits were 1000 and 1200, with patience 200 and 300 respectively.
+Both runs used Python 3.10.17, PyTorch 2.6.0+cu124, YOLO11-large, 640-pixel inputs, batch size 16, seed 0, frozen first 20 layers, mixed precision and cosine learning-rate scheduling. The `optimizer=auto` setting selected SGD with learning rate 0.01, momentum 0.9 and weight decay 0.0005, as recorded in the run console.
 
-To repeat the historical procedure on a permitted computing environment, obtain the exact image exports, point each data.yaml at the matching split directories, and run its original command from that dataset directory. Export transformations, label normalization for later tests and data-dependence caveats are documented in the paper. Repeating training is not performed by this release workflow and would not necessarily reproduce numerical weights bit for bit.
+The object run planned 1,000 epochs with patience 200 and completed 669 epochs; checkpoint selection chose epoch 469. The behavior run planned 1,200 epochs with patience 300 and completed 489 epochs; checkpoint selection chose epoch 189. The selected checkpoints and reported measurements are defined by the retained run records.
+
+Retraining is outside the verification workflow. A reproduction requires the exact authorized dataset exports, a compatible environment and the recorded commands; numerical weights need not be bit-identical across environments.

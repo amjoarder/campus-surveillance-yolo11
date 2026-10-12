@@ -1,5 +1,5 @@
-# Original checkpoints
+# Model checkpoints
 
-Download `object_best.pt` and `behavior_best.pt` from the repository's v1.0.0 release. They are byte-identical to the supplied original `best.pt` files; SHA-256 values are recorded in `manifest.json`. No retraining, conversion, serialization, loading or inference was performed to prepare this release.
+The object and aggressive-actor checkpoints are distributed through the repository's GitHub release assets. Their filenames and SHA-256 checksums are recorded in `manifest.json`. Place them at `implementation/object_detection/best.pt` and `implementation/behavior_detection/best.pt` for application execution.
 
-For the original implementation, place them as `implementation/object_detection/best.pt` and `implementation/behavior_detection/best.pt`. Stock Ultralytics/PyTorch serialization is retained. Use the documented dependency versions and only load model files from a trusted source. Third-party Ultralytics license requirements continue to apply.
+The checkpoints use the stock Ultralytics/PyTorch serialization. Use the documented dependency versions and load model files only from trusted sources. Third-party Ultralytics license requirements apply.

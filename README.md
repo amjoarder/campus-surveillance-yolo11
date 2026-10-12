@@ -1,55 +1,46 @@
-# Campus Surveillance with Harmful-Object and Aggressive-Actor Detection
+# Campus Surveillance with Object and Aggressive-Actor Detection
 
-Code, model records, dataset provenance, and numerical analysis resources for a frame-based campus surveillance implementation using YOLO11 object and aggressive-actor detectors.
+Implementation code, training records, dataset provenance and numerical checks for the submitted YOLO11-based campus-surveillance study. The manuscript and its Overleaf source are provided separately.
 
 ![Proposed system architecture](assets/system_architecture.svg)
 
-*Proposed system architecture. The figure describes the conceptual workflow; the executable scope is defined by the original application and its run documentation.*
+*Proposed system architecture. The diagram includes conceptual stages that are not implemented in the evaluated frame-based application; the scope and implemented path are documented in the manuscript.*
 
-## Implementation
+## Scope
 
-The original application processes video frames at 640 × 640 resolution, runs the object and aggressive-actor detectors sequentially, and maps their outputs to four displayed cue states. It writes an annotated video and decision logs, with frame-image output when an aggressive-actor cue is present. The implementation is frame-based; it does not construct temporal sequences.
+The application runs independent YOLO11-large object and aggressive-actor detectors on decoded video frames and combines their outputs into four visible cue states. It records annotated video and decision logs, with frame images saved when an aggressive-actor cue is present. The application does not construct temporal sequences or confirm intent, violence or property damage.
 
-The architecture figure includes conceptual processing and response stages beyond the retained application. The executable implementation is documented in [implementation/README.md](implementation/README.md).
+Reported metrics are image-level localization measurements on the available task exports. Recording-identifier and cross-task image overlap are documented; the repository does not claim independent incident-level validation or operational performance.
 
 ## Repository structure
 
 | Path | Contents |
 |---|---|
-| [implementation/](implementation/) | Original integrated application and execution instructions |
-| [training/](training/) | Original Ultralytics CLI commands, saved arguments, training histories, and source screenshots |
-| [datasets/](datasets/) | Dataset versions, split counts, provenance, and export manifests |
-| [models/](models/) | Checkpoint hashes and model retrieval instructions |
-| [campus_study/](campus_study/) | Image-test records, fixed-weight external assessment records, and analysis scripts |
-| [tools/](tools/) | Source integrity, release, and cue-availability checks |
-| [assets/system_architecture.svg](assets/system_architecture.svg) | Proposed system architecture |
+| [`implementation/`](implementation/) | Video inference application and execution instructions |
+| [`training/`](training/) | Recorded Ultralytics CLI commands, arguments, histories and code screenshots |
+| [`datasets/`](datasets/) | Dataset versions, split counts, provenance and label-only manifests |
+| [`models/`](models/) | Checkpoint hashes and retrieval instructions |
+| [`campus_study/`](campus_study/) | Image-level results, overlap audits and verification scripts |
+| [`tools/`](tools/) | Source integrity and cue-rule checks |
+| [`assets/system_architecture.svg`](assets/system_architecture.svg) | Author-supplied proposed system diagram |
 
 ## Verification
 
-The numerical and source-integrity checks run on Python 3.10 or later and do not load detector weights or run inference:
+The verification scripts run on Python 3.10 or later. They validate source hashes, Python syntax, training records, dataset manifests and numerical summaries without loading weights or running inference.
 
 ```bash
 python tools/verify_release.py
-python campus_study/code/verify_current_study.py --root campus_study
-python tools/cue_availability.py
+python campus_study/code/verify_current_study.py
 ```
 
-The checks validate the retained source hashes, Python syntax, training records, dataset manifests, and numerical outputs. They do not retrain models or reproduce detector predictions.
+## Execution
 
-## Application execution
+See [`implementation/README.md`](implementation/README.md) for dependencies, model placement, input-video setup and output paths. Full execution requires the trained weights and an authorized video. The verification workflow does not execute the application.
 
-Follow [implementation/README.md](implementation/README.md) for the original inference workflow, required dependencies, model-file locations, video path, and output directory. Inference requires the associated trained weights and an authorized input video. The original application selects its compute device automatically.
+## Training and data
 
-## Training records
-
-The historical training procedure used the Ultralytics 8.3.116 command-line interface. Original commands, screenshots, run arguments, and epoch histories are available in [training/](training/). No separate author-authored training script was retained. The saved command and configuration records are provided for procedural reference; retraining is not part of the verification workflow.
-
-## Dataset and model files
-
-Dataset versions, split counts, annotation provenance, and source references are documented in [datasets/README.md](datasets/README.md). The repository contains source manifests and annotation records, not the underlying image pixels. Checkpoint hashes and retrieval details are documented in [models/README.md](models/README.md).
-
-AIRTLab appears only in the post-hoc fixed-weight assessment records. It was not used in the original implementation, training, or checkpoint selection.
+Training used the Ultralytics 8.3.116 command-line interface. The command records, saved configurations, screenshots and epoch histories are included; no separate author-written training script was retained. Dataset source versions, split counts, annotation provenance and access restrictions are documented in [`datasets/README.md`](datasets/README.md). The repository contains manifests and annotation records, not participant-image pixels or video footage. Checkpoint hashes and access information are documented in [`models/README.md`](models/README.md).
 
 ## Citation
 
-Citation metadata are provided in [CITATION.cff](CITATION.cff).
+Software citation metadata are provided in [`CITATION.cff`](CITATION.cff).

@@ -1,13 +1,15 @@
-# Paper analyses
+# Image-level evaluation records
 
-These scripts were prepared during manuscript analysis, after the original training and integrated implementation. They are not the original authors' training scripts.
+This directory contains the numerical records and audits used to report detector localization results and the limits of the available image partitions. The manuscript and supplementary files are supplied separately.
 
-Python 3.10+ standard library is sufficient:
+Run the reproducibility check from the repository root:
+
+```bash
+python campus_study/code/verify_current_study.py
 ```
-python campus_study/code/verify_current_study.py --root campus_study
-python campus_study/code/analyze_transfer.py --records campus_study/evidence/external_clip_records --manifest campus_study/evidence/external_manifest.json --output transfer_recomputed.json
-```
 
-The verifier checks all 350 saved clip-record hashes, sampled frame indices, four cue rules, paired-camera groups, 10000 scene bootstrap replicates, original checkpoint-selection epochs, ten class-level AP rows and original-code byte identity. It does not repeat detector inference. The evidence files preserve original record wording and paths; terms such as `recovered` in archival JSON describe the earlier file audit, not a new dataset or invented experiment.
+The checker verifies the ten-class object AP table, behavior and object evaluation summaries, training-log checkpoint selection, and the ten-image paired cue diagnostic. It does not load model weights or perform inference.
 
-Supplementary Data 1 is per-class object results; Data 2 is external screening and uncertainty; Data 3 is recording/source linkage. No incomplete exhaustive-frame results are included. Numerical reproducibility does not imply a recording-independent campus test or verify participant permissions.
+`evidence/` contains saved training arguments and histories, image-evaluation summaries, annotation and recording-overlap audits, and source provenance. `supplementary_data/Supplementary_Data_1.csv` gives per-class object metrics. `Supplementary_Data_2.json` records the available recording-identifier linkage.
+
+These records describe the supplied image exports. Recording overlap means they do not establish performance on unseen recordings or independently held-out incidents.

@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software or its associated data records, cite this release."
-title: "Campus surveillance with object detection and aggression localization"
+title: "Campus surveillance with object detection and aggressive-actor localization"
 type: software
-version: 1.0.0
+version: 1.1.0
 date-released: 2026-10-12
 url: https://github.com/amjoarder/campus-surveillance-yolo11
 repository-code: https://github.com/amjoarder/campus-surveillance-yolo11
