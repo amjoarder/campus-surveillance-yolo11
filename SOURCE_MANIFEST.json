@@ -1,9 +1,10 @@
 {
-  "description": "Code-only source release; no manuscript or paper figure files.",
+  "description": "Source, architecture, and reproducibility release; excludes manuscript files and dataset image pixels.",
   "sha256": {
     ".gitattributes": "22b9bf672cde3dcca71a53d0d64c7b44c61c75adb0609f78b17f802b0a34c5ba",
     ".github/workflows/verify.yml": "e5e6b7b01845afd2de0b8c9532344ca5f735975d5000ab22ec1d08a69f68a8e8",
     ".gitignore": "92f81cdf499d6b69a20e7803c89d911398f0e449862e018b60feda36507eb87e",
+    "assets/system_architecture.svg": "35cb596fe2c79a24a61679720aaf779b932fb9d3fdeebfc4ea436dd271863d3d",
     "campus_study/code/analyze_transfer.py": "d36c1aa7c1dbeea3d9726505523b88566f0975d280f98d51c10b9a7a81add137",
     "campus_study/code/original_integrated.py": "8382785ab5267eeee46c3db9f22c909f871469aaffa0b22b78199dc2a7d2b33f",
     "campus_study/code/verify_current_study.py": "c477032a8f24e2a8b2644249707466540c73ddcd8876f454bae687c07a692e91",

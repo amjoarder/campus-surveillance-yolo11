@@ -1,39 +1,55 @@
-# Original campus-surveillance implementation
+# Campus Surveillance with Harmful-Object and Aggressive-Actor Detection
 
-Code and dataset companion for the research of Ajmain Muhtady Joarder, Zannatul Tasmia Moyury, Jubayer Al Mahmud, Md. Alam Hossain and M. F. Mridha. Corresponding author: ja.mahmud@just.edu.bd.
+Code, model records, dataset provenance, and numerical analysis resources for a frame-based campus surveillance implementation using YOLO11 object and aggressive-actor detectors.
 
-This repository contains the actual integrated YOLO11 application, original training commands, saved training records, original checkpoint identities, dataset provenance and reproducible numerical analyses. **The manuscript, bibliography, paper diagrams, paper PDF and Overleaf source ZIP are not hosted here.** The authors receive the Overleaf project separately.
+![Proposed system architecture](assets/system_architecture.svg)
 
-| Material | Location |
+*Proposed system architecture. The figure describes the conceptual workflow; the executable scope is defined by the original application and its run documentation.*
+
+## Implementation
+
+The original application processes video frames at 640 × 640 resolution, runs the object and aggressive-actor detectors sequentially, and maps their outputs to four displayed cue states. It writes an annotated video and decision logs, with frame-image output when an aggressive-actor cue is present. The implementation is frame-based; it does not construct temporal sequences.
+
+The architecture figure includes conceptual processing and response stages beyond the retained application. The executable implementation is documented in [implementation/README.md](implementation/README.md).
+
+## Repository structure
+
+| Path | Contents |
 |---|---|
-| Unchanged original integrated application | [implementation/main.py](implementation/main.py) |
-| Run instructions and original output limitations | [implementation/README.md](implementation/README.md) |
-| Actual historical training CLI commands and screenshots | [training/](training/) |
-| Exact dataset versions, counts and export hashes | [datasets/](datasets/) |
-| Original trained-weight hashes | [models/manifest.json](models/manifest.json) |
-| Completed numerical results and later analysis tools | [campus_study/](campus_study/) |
-| Original weights and label-only archives | [v1.0.0 release](https://github.com/amjoarder/campus-surveillance-yolo11/releases/tag/v1.0.0) |
+| [implementation/](implementation/) | Original integrated application and execution instructions |
+| [training/](training/) | Original Ultralytics CLI commands, saved arguments, training histories, and source screenshots |
+| [datasets/](datasets/) | Dataset versions, split counts, provenance, and export manifests |
+| [models/](models/) | Checkpoint hashes and model retrieval instructions |
+| [campus_study/](campus_study/) | Image-test records, fixed-weight external assessment records, and analysis scripts |
+| [tools/](tools/) | Source integrity, release, and cue-availability checks |
+| [assets/system_architecture.svg](assets/system_architecture.svg) | Proposed system architecture |
 
-## Verify without training or inference
+## Verification
 
-```
+The numerical and source-integrity checks run on Python 3.10 or later and do not load detector weights or run inference:
+
+```bash
 python tools/verify_release.py
 python campus_study/code/verify_current_study.py --root campus_study
 python tools/cue_availability.py
 ```
 
-These checks use Python 3.10+ and its standard library. GitHub Actions verifies original-code byte identity, source hashes, saved training selection, all 350 completed external clip records, 10000 paired-camera scene resamples, ten class-level AP rows and joint-cue counts. CI never imports the original application, loads a checkpoint, trains a model or performs detector inference.
+The checks validate the retained source hashes, Python syntax, training records, dataset manifests, and numerical outputs. They do not retrain models or reproduce detector predictions.
 
-## Original work and later assessment
+## Application execution
 
-The original implementation used the campus behavior export and the merged object collection. Training was performed through the Ultralytics 8.3.116 CLI, as shown by the original screenshots. No separate historical training notebook has been invented. Original application execution requires its documented directory layout, the original weights, an authorized input video and the GUI/inference dependencies.
+Follow [implementation/README.md](implementation/README.md) for the original inference workflow, required dependencies, model-file locations, video path, and output directory. Inference requires the associated trained weights and an authorized input video. The original application selects its compute device automatically.
 
-**AIRTLab was not used in the original thesis implementation, training or checkpoint selection.** Its records here belong to an additional post-hoc fixed-weight assessment conducted during manuscript preparation. Three preselected frames per clip and the unchanged 0.5 threshold were used. Those outputs are secondary screening measurements, not validation of a live campus deployment. The stopped exhaustive-frame run is excluded.
+## Training records
 
-The campus image splits have recording and cross-task overlap. The completed image-test AP50/AP50:95 values are 78.84/55.75% for objects and 87.69/52.90% for behavior. Post-hoc external OR screening has balanced accuracy 52.32% (95% scene-cluster interval 46.54–57.88%). Neither result establishes independent incident recognition or camera-hour false-alert rates.
+The historical training procedure used the Ultralytics 8.3.116 command-line interface. Original commands, screenshots, run arguments, and epoch histories are available in [training/](training/). No separate author-authored training script was retained. The saved command and configuration records are provided for procedural reference; retraining is not part of the verification workflow.
 
-## Data and model access
+## Dataset and model files
 
-The release provides original weights and original labels/YAML/split-name manifests without image pixels. These annotation packages are not standalone image datasets. Full imagery is obtained from the credited source versions or the corresponding author, subject to source terms and participant permissions. Campus footage and third-party image pixels are not mirrored.
+Dataset versions, split counts, annotation provenance, and source references are documented in [datasets/README.md](datasets/README.md). The repository contains source manifests and annotation records, not the underlying image pixels. Checkpoint hashes and retrieval details are documented in [models/README.md](models/README.md).
 
-See [NOTICE.md](NOTICE.md) for rights and dependency provenance. The associated manuscript remains unpublished; no journal acceptance or DOI is claimed. Use `CITATION.cff` to cite this software/data-record release.
+AIRTLab appears only in the post-hoc fixed-weight assessment records. It was not used in the original implementation, training, or checkpoint selection.
+
+## Citation
+
+Citation metadata are provided in [CITATION.cff](CITATION.cff).
